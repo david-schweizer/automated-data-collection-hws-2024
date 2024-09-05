@@ -4,6 +4,7 @@ listing:
   - id: material
     contents:
       - weeks/week-01.qmd
+      - weeks/week-02.qmd
     type: table
     fields: [subtitle, title, date]
     field-display-names:
@@ -20,7 +21,7 @@ editor: visual
 
 You can find all course materials below. This includes slides, code, links to readings, etc.
 
-Just click on the topic of the respective week.
+Just click on the topic of the respective week. The materials will be updated during the semester a week in advance.
 
 ::: {#material}
 :::

@@ -28,7 +28,7 @@
     "href": "material.html",
     "title": "Schedule, slides & materials",
     "section": "",
-    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\n\nNo matching items",
+    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule, slides & materials"
     ]
@@ -132,7 +132,7 @@
     "href": "weeks/week-02.html",
     "title": "Intro to R",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nIntro to R\n\n\nWeek 2\n\n\nFeb 20, 2023\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find the exercise here.\n\n\nTo Do’s before our session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\nJoin the course Slack channel!\n\nInvitation will follow via e-mail.\n\nJoin the Dataquest team!\n\nInvitation will follow via e-mail.\n\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via Slack or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!"
+    "text": "Seminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nIntro to R\n\n\nWeek 2\n\n\nFeb 20, 2023\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA.\n\n\nTo Do’s before our session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via Slack or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!"
   },
   {
     "objectID": "slides/week-01/01-Intro.html",
@@ -2219,7 +2219,7 @@
     "href": "slides/week-01/01-IntroSession.html#introduction-round",
     "title": "Intro Session",
     "section": "Introduction round",
-    "text": "Introduction round\n\nI’ll go first. A few words about me\nYou’re next. Groups of 3-4\n\nIntroduce yourselves to your classmates\nWhat is your name? Where are you from? What do you study? Did you pick up a new hobby recently?\n\nPlenum\n\nIn a few sentences, present yourself to the plenum and tell the others one thing about the person you just met"
+    "text": "Introduction round\n\nI’ll go first. A few words about me\nYou’re next. Groups of 2-3\n\nIntroduce yourselves to your classmates\nWhat is your name? Where are you from? What do you study? Did you pick up a new hobby recently?\n\nPlenum\n\nIn a few sentences, present yourself to the plenum and tell the others one thing about the person you just met"
   },
   {
     "objectID": "slides/week-01/01-IntroSession.html#about-me",
@@ -2282,14 +2282,14 @@
     "href": "slides/week-01/01-IntroSession.html#plan-expectations",
     "title": "Intro Session",
     "section": "Plan & expectations",
-    "text": "Plan & expectations\n\nUnfortunately, we are a large group. Maybe adaptation during the semester.\nMix of lecture-style input, live coding, group exercises, and discussion.\nActive participation in class and preparation\nWillingness to invest time to learn a (new) programming language, look for solutions on your own, and keep trying"
+    "text": "Plan & expectations\n\nWe are a small group. Great!\nMix of lecture-style input, live coding, group exercises, and discussion.\nSmall group also means: Active participation in class and preparation\nWillingness to invest time to learn a (new) programming language, look for solutions on your own, and keep trying"
   },
   {
     "objectID": "slides/week-01/01-IntroSession.html#course-requirements",
     "href": "slides/week-01/01-IntroSession.html#course-requirements",
     "title": "Intro Session",
     "section": "Course requirements",
-    "text": "Course requirements\n\nActive participation & preparation\nIndividual assignments during the semester (10% of your grade)\nMid-term assignment (15% of your grade)\nFinal data project (75% of your grade)"
+    "text": "Course requirements\n\nActive participation & preparation\nTwo short, individual assignments during the semester (10% of your grade)\nData project (90% of your grade)\n\nSee syllabus! But also more on this during the semester."
   },
   {
     "objectID": "slides/week-01/01-IntroSession.html#motivation",
@@ -2338,14 +2338,14 @@
     "href": "slides/week-01/01-IntroSession.html#organisation-resources",
     "title": "Intro Session",
     "section": "Organisation & Resources",
-    "text": "Organisation & Resources\n\nMaterials will be provided via the course website.\nCommunication via Slack. Nevertheless: Make sure that you have access to the course on ILIAS and that emails that are sent over ILIAS are forwarded to the email account you check regularly\nWeekly office hours before the course. Please make an appointment via e-mail.\nAccess to Dataquest (Online learning platform for programming languages and more)"
+    "text": "Organisation & Resources\n\nMaterials will be provided via the course website.\nCommunication via ILIAS. Make sure that you have access to the course on ILIAS and that emails that are sent over ILIAS are forwarded to the email account you check regularly\nWeekly office hours after the course. Please make an appointment via e-mail."
   },
   {
     "objectID": "slides/week-01/01-IntroSession.html#until-our-next-session",
     "href": "slides/week-01/01-IntroSession.html#until-our-next-session",
     "title": "Intro Session",
     "section": "Until our next session",
-    "text": "Until our next session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\nJoin the course Slack channel!\n\nInvitation will follow via e-mail.\n\nJoin the Dataquest team!\n\nInvitation will follow via e-mail.\n\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via Slack or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!"
+    "text": "Until our next session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\nMake sure that you have access to ILIAS.\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via ILIAS or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!"
   },
   {
     "objectID": "slides/week-01/01-IntroSession.html#important",
@@ -4675,7 +4675,7 @@
     "href": "slides/week-02/02-GrammarOfGraphics.html#tba",
     "title": "Intro to R",
     "section": "TBA",
-    "text": "TBA\n\n\nAutomated Data Collection | Spring 2024 | University of Mannheim"
+    "text": "TBA\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#tba",
@@ -4752,7 +4752,7 @@
     "href": "slides/week-01/01-IntroSession.html#schedule-content",
     "title": "Intro Session",
     "section": "Schedule & Content",
-    "text": "Schedule & Content\n\nIntroBlock I… II… III… IIClosing\n\n\n\nWeek 01 - 13.02.2024 - Intro Session\n\n\n\nBlock I: Import, Tidy, Transform, & Visualize Data\n\nWeek 02 - 20.02.2024 - Intro to R\nWeek 03 - 27.02.2024 - Tidyverse I: Import, tidy, and transform\nWeek 04 - 05.03.2024 - Tidyverse II: Import, tidy, and transform\nWeek 05 - 12.03.2024 - ggplot: Visualize\n\n\n\nBlock II: Communicate & Collaborate\n\nWeek 06 - 19.03.2024 - R Markdown / Quarto\nWeek 07 - 26.03.2024 - Easter Break\nWeek 08 - 02.04.2024 - Easter Break\nWeek 09 - 09.04.2024 - Version control (Github)\n\n\n\nBlock III: Web scraping\n\nWeek 10 - 16.04.2024 - APIs\nWeek 11 - 23.04.2024 - Web scraping basics\nWeek 12 - 30.04.2024 - Web scraping static\nWeek 13 - 07.05.2024 - Web scraping dynamic\n\n\n\nBlock II: Communicate Interactively\n\nWeek 14 - 14.05.2024 - Interactive I: Create your first Shiny app\nWeek 15 - 21.05.2024 - Interactive II: Making pretty Shiny apps\n\n\n\n\nWeek 16 - 28.05.2024 - Closing Session"
+    "text": "Schedule & Content\n\nIntroBlock I… II… III… IIClosing\n\n\n\nWeek 01 - 05.09.2024 - Intro Session\n\n\n\nBlock I: Import, Tidy & Transform Data\n\nWeek 02 - 12.09.2024 - Intro to R\nWeek 03 - 19.09.2024 - Tidyverse I: Import, tidy, and transform\nNo session on 26.09.2024 and 03.10.2024\nWeek 06 - 10.10.2024 - Tidyverse II: Import, tidy, and transform\n\n\n\nBlock II: Visualize, Communicate & Collaborate\n\nWeek 07 - 17.10.2024 - ggplot: Visualize & Quarto\nWeek 08 - 24.10.2024 - Version control (Github)\n\n\n\nBlock III: Web scraping\n\nWeek 09 - 31.10.2024 - Web scraping basics\nWeek 10 - 07.11.2024 - Web scraping static\nWeek 11 - 14.11.2024 - Web scraping dynamic\n\n\n\nBlock II: Communicate Interactively\n\nWeek 12 - 21.11.2024 - Interactive I: Create your first Shiny app\nWeek 13 - 28.11.2024 - Interactive II: Making pretty Shiny apps app\n\n\n\n\nWeek 14 - 05.12.2024 - Closing Session: Presentations"
   },
   {
     "objectID": "slides/week-01/01-IntroSession.html#motivation-1",
@@ -7539,5 +7539,19 @@
     "title": "Closing Session",
     "section": "Your Feedback",
     "text": "Your Feedback\n\n“Open round”\nPlease take some time to fill out the survey by the institute. This is both valuable for me professionally but also for further iterations of this seminar!\n\n\n\nAutomated Data Collection | Spring 2024 | University of Mannheim"
+  },
+  {
+    "objectID": "slides/week-01/01-IntroSession.html#shiny-apps-in-your-final-project",
+    "href": "slides/week-01/01-IntroSession.html#shiny-apps-in-your-final-project",
+    "title": "Intro Session",
+    "section": "Shiny apps in your final project",
+    "text": "Shiny apps in your final project\n\n\n\nStatePol Database: &lt;https://statepol.github.io/Database/&gt;"
+  },
+  {
+    "objectID": "slides/week-01/01-IntroSession.html#shiny-apps-can-also-look-like-this",
+    "href": "slides/week-01/01-IntroSession.html#shiny-apps-can-also-look-like-this",
+    "title": "Intro Session",
+    "section": "Shiny apps can also look like this:",
+    "text": "Shiny apps can also look like this:\n\n\n\nnews-r: https://gallery.shinyapps.io/freedom-press-index/#home"
   }
 ]

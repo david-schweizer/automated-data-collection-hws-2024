@@ -25,7 +25,7 @@ editor: visual
 
 -   I'll go first. A few words about me
 
--   You're next. Groups of 3-4
+-   You're next. Groups of 2-3
 
     -   Introduce yourselves to your classmates
     -   What is your name? Where are you from? What do you study? Did you pick up a new hobby recently?
@@ -52,7 +52,7 @@ editor: visual
 ## Experience & Interests
 
 ::: {style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;"}
-<iframe sandbox="allow-scripts allow-same-origin allow-presentation" allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" src="https://www.mentimeter.com/app/presentation/alfkc55uxc9mgzspg9z67nihkypr6p2n/embed" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="420">
+<iframe sandbox="allow-scripts allow-same-origin allow-presentation" allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" src="https://www.mentimeter.com/app/presentation/almqrezpbu1is6izdjesnv14p6ujk5ca/embed" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="420">
 
 </iframe>
 :::
@@ -62,72 +62,66 @@ editor: visual
 ::: panel-tabset
 ## Intro
 
--   Week 01 - 13.02.2024 - Intro Session
+-   Week 01 - 05.09.2024 - Intro Session
 
 ## Block I
 
-**Block I: Import, Tidy, Transform, & Visualize Data**
+**Block I: Import, Tidy & Transform Data**
 
--   Week 02 - 20.02.2024 - Intro to R
+-   Week 02 - 12.09.2024 - Intro to R
 
--   Week 03 - 27.02.2024 - Tidyverse I: Import, tidy, and transform
+-   Week 03 - 19.09.2024 - Tidyverse I: Import, tidy, and transform
 
--   Week 04 - 05.03.2024 - Tidyverse II: Import, tidy, and transform
+-   No session on 26.09.2024 and 03.10.2024
 
--   Week 05 - 12.03.2024 - ggplot: Visualize
+-   Week 06 - 10.10.2024 - Tidyverse II: Import, tidy, and transform
 
 ## ... II
 
-**Block II: Communicate & Collaborate**
+**Block II: Visualize, Communicate & Collaborate**
 
--   Week 06 - 19.03.2024 - R Markdown / Quarto
+-   Week 07 - 17.10.2024 - ggplot: Visualize & Quarto
 
--   *Week 07 - 26.03.2024 - Easter Break*
-
--   *Week 08 - 02.04.2024 - Easter Break*
-
--   Week 09 - 09.04.2024 - Version control (Github)
+-   Week 08 - 24.10.2024 - Version control (Github)
 
 ## ... III
 
 **Block III: Web scraping**
 
--   Week 10 - 16.04.2024 - APIs
+-   Week 09 - 31.10.2024 - Web scraping basics
 
--   Week 11 - 23.04.2024 - Web scraping basics
+-   Week 10 - 07.11.2024 - Web scraping static
 
--   Week 12 - 30.04.2024 - Web scraping static
-
--   Week 13 - 07.05.2024 - Web scraping dynamic
+-   Week 11 - 14.11.2024 - Web scraping dynamic
 
 ## ... II
 
 **Block II: Communicate Interactively**
 
--   Week 14 - 14.05.2024 - Interactive I: Create your first Shiny app
+-   Week 12 - 21.11.2024 - Interactive I: Create your first Shiny app
 
--   Week 15 - 21.05.2024 - Interactive II: Making pretty Shiny apps
+-   Week 13 - 28.11.2024 - Interactive II: Making pretty Shiny apps app
 
 ## Closing
 
--   Week 16 - 28.05.2024 - Closing Session
+-   Week 14 - 05.12.2024 - Closing Session: Presentations
 :::
 
 ## Your expectations
 
 ::: {style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;"}
-<iframe sandbox="allow-scripts allow-same-origin allow-presentation" allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" src="https://www.mentimeter.com/app/presentation/alc6tqyudcyvugs58kw3ps686rgdy65t/embed" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="420">
+<iframe sandbox="allow-scripts allow-same-origin allow-presentation" allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" src="https://www.mentimeter.com/app/presentation/alkgqrka9pdknudhh4qiowxgk1hswiim/embed" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="420">
 
 </iframe>
 :::
 
 ## Plan & expectations
 
--   Unfortunately, we are a large group. Maybe adaptation during the semester.
+-   We are a small group. Great!
 
 -   Mix of lecture-style input, live coding, group exercises, and discussion.
 
--   Active participation in class and preparation
+-   Small group also means: Active participation in class and preparation
 
 -   Willingness to invest time to learn a (new) programming language, look for solutions on your own, and keep trying
 
@@ -135,21 +129,27 @@ editor: visual
 
 -   Materials will be provided via the course website.
 
--   Communication via Slack. Nevertheless: Make sure that you have access to the course on ILIAS and that emails that are sent over ILIAS are forwarded to the email account you check regularly
+-   Communication via ILIAS. Make sure that you have access to the course on ILIAS and that emails that are sent over ILIAS are forwarded to the email account you check regularly
 
--   Weekly office hours before the course. Please make an appointment via e-mail.
-
--   Access to Dataquest (Online learning platform for programming languages and more)
+-   Weekly office hours after the course. Please make an appointment via e-mail.
 
 ## Course requirements
 
 -   Active participation & preparation
 
--   Individual assignments during the semester (10% of your grade)
+-   Two short, individual assignments during the semester (10% of your grade)
 
--   Mid-term assignment (15% of your grade)
+-   Data project (90% of your grade)
 
--   Final data project (75% of your grade)
+    -   See syllabus! But also more on this during the semester.
+    
+## Shiny apps in your final project
+
+[![StatePol Database: \<https://statepol.github.io/Database/\>](statepol.jpg)](https://statepol.github.io/Database/)
+
+## Shiny apps can also look like this:
+
+[![news-r: https://gallery.shinyapps.io/freedom-press-index/#home](shiny_press.jpg)](https://gallery.shinyapps.io/freedom-press-index/#home)
 
 ## Important!
 
@@ -172,7 +172,7 @@ editor: visual
 ## Motivation
 
 ::: {style="position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;"}
-<iframe sandbox="allow-scripts allow-same-origin allow-presentation" allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" src="https://www.mentimeter.com/app/presentation/alx1uia737s63pf4tnxo1zcrok8bvxgm/embed" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="420">
+<iframe sandbox="allow-scripts allow-same-origin allow-presentation" allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" src="https://www.mentimeter.com/app/presentation/aldjb7ka3br3jfuoocfswpa3xj98e8d2/embed" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="420">
 
 </iframe>
 :::
@@ -226,13 +226,7 @@ Taking this course should not be an end in itself!
 
     -   <https://posit.co/download/rstudio-desktop/>
 
--   Join the course Slack channel!
-
-    -   Invitation will follow via e-mail.
-
--   Join the Dataquest team!
-
-    -   Invitation will follow via e-mail.
+-   Make sure that you have access to ILIAS.
 
 ## Read
 
@@ -247,7 +241,7 @@ Taking this course should not be an end in itself!
 
     -   What interests you substantially? Start thinking about possible research areas for your data project.
 
-    -   Feel also free to point out (via Slack or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!
+    -   Feel also free to point out (via ILIAS or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!
 :::
 
 # Any open questions?
