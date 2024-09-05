@@ -1,14 +1,14 @@
 ---
-title: "Automated Data Collection"
-subtitle: "Übung: Methoden der Vergleichenden Regierungslehre - Spring 2024"
+title: "Automated Data Collection with R"
+subtitle: "Übung: Methoden der Vergleichenden Regierungslehre - Fall 2024"
 ---
 
 ## **Course overview**
 
 Against the background of the ever-increasing availability of (unstructured) online data, the goal of this course is to equip the students with the necessary skills to collect large quantities of data for their own research projects, to process the data, and to automate this workflow in a reproducible way.
 
-The course introduces students to automated data collection using a very practical approach with the R programming language. The course consists of three major modules. First, you will be guided into the programming language and learn the fundamentals of R. No prior experience with R is necessary. Among other things, we will cover how to import, transform, and visualize data. Second, we will focus on the workflow for reproducible research. For example, this includes version control via Github and how to communicate your results. Third, we will cover static and dynamic web scraping as well as APIS’s from a conceptual perspective and use these tools to collect web data. Finally, we will also learn how to automate this process.
+The course introduces students to automated data collection using a very practical approach with the R programming language. The course consists of three major modules. First, you will be guided into the programming language learning the fundamentals of R and the data science workflow: Import, tidy, transform, & visualize data. No prior experience with R is necessary! Second, we will focus on the workflow for reproducible research and how to communicate our results, also in an interactive way. For example, this includes version control via Github. Third, we will cover static and dynamic web scraping as well as APIS’s from a conceptual perspective and use these tools to collect web data. Finally, we will also learn how to automate this process.
 
 ## **Navigating this website**
 
-On this website, you can find the syllabus as well as all course materials (see *Schedule, slides & materials*).
+On this website, you can find the syllabus as well as all links to all course materials (see *Schedule, slides & materials*).
