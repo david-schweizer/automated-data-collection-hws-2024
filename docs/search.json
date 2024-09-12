@@ -55,7 +55,7 @@
     "href": "weeks/week-01.html",
     "title": "Intro Session",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nIntro Session\n\n\nWeek 1\n\n\nFeb 13, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nTo Do’s before our session\n\nNone. We will have an introductory session to get to know each other, go over the plan for the semester, and talk about both your and my expectations for the course.\nAlthough our sessions are in the “Methodenlabor” and you will have access to computers, I encourage you to bring your own laptop (if you have one). That way, you can also work on assignments during the semester and the final examination at home. We will have time tomorrow to ensure everybody can install a working version of R and RStudio."
+    "text": "To Do’s before our session\n\nNone. We will have an introductory session to get to know each other, go over the plan for the semester, and talk about both your and my expectations for the course.\nAlthough our sessions are in the “Methodenlabor” and you will have access to computers, I encourage you to bring your own laptop (if you have one). That way, you can also work on assignments during the semester and the final examination at home. We will have time tomorrow to ensure everybody can install a working version of R and RStudio.\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nIntro Session\n\n\nWeek 1\n\n\nSep 5, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "slides/week-01/01-example.html#bullet-point-list",
@@ -132,7 +132,7 @@
     "href": "weeks/week-02.html",
     "title": "Intro to R",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nIntro to R\n\n\nWeek 2\n\n\nFeb 20, 2023\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA.\n\n\nTo Do’s before our session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via Slack or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!"
+    "text": "To Do’s before our session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via ILIAS or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!\n\n\n\n\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nIntro to R\n\n\nWeek 2\n\n\nSep 12, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can download the exercise for today’s session here."
   },
   {
     "objectID": "slides/week-01/01-Intro.html",
@@ -200,7 +200,7 @@
     "href": "weeks/week-03.html",
     "title": "Tidyverse I: Import, tidy, and transform",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nTidyverse I: Import, tidy, and transform\n\n\nWeek 3\n\n\nFeb 27, 2023\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find the script here.\n\n\nTo Do’s before our session\n\nReadThink\n\n\n\nChapter 7: Data Import in R for Data Science\n\nLink to free online version\n\nChapter 3: Data Transformation in R for Data Science\n\nLink to free online version\n\n\n\n\n\nQuestions to think about until our next session:\n\nDo you have a particular data set you would like to import into R? Let me know!"
+    "text": "To Do’s before our session\n\nReadThink\n\n\n\nChapter 7: Data Import in R for Data Science\n\nLink to free online version\n\nChapter 3: Data Transformation in R for Data Science\n\nLink to free online version\n\n\n\n\n\nQuestions to think about until our next session:\n\nDo you have a particular data set you would like to import into R? Let me know!\n\n\n\n\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nTidyverse I: Import, tidy, and transform\n\n\nWeek 3\n\n\nSep 19, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA."
   },
   {
     "objectID": "weeks/week-04.html",
@@ -361,7 +361,7 @@
     "href": "slides/week-14/14-ClosingSession.html",
     "title": "Closing Session",
     "section": "",
-    "text": "Update\n\nSlides will be uploaded on the day of the seminar."
+    "text": "Recap - Content\nData project\nOutlook\nRecap - (Your) Feedback"
   },
   {
     "objectID": "weeks/week-08.html",
@@ -7467,8 +7467,8 @@
     "objectID": "slides/week-14/14-ClosingSession.html#plan-for-today",
     "href": "slides/week-14/14-ClosingSession.html#plan-for-today",
     "title": "Closing Session",
-    "section": "Plan for today",
-    "text": "Plan for today\n\nRecap - Content\nData project\nOutlook\nRecap - (Your) Feedback"
+    "section": "",
+    "text": "Recap - Content\nData project\nOutlook\nRecap - (Your) Feedback"
   },
   {
     "objectID": "slides/week-14/14-ClosingSession.html#recap---content",
@@ -7517,7 +7517,7 @@
     "href": "slides/week-14/14-ClosingSession.html#data-project---my-inspiration",
     "title": "Closing Session",
     "section": "Data project - My inspiration",
-    "text": "Data project - My inspiration\n\nStatePol Database: https://statepol.github.io/Database"
+    "text": "Data project - My inspiration\n\n\n\nStatePol Database: https://statepol.github.io/Database"
   },
   {
     "objectID": "slides/week-14/14-ClosingSession.html#outlook-what-now",
@@ -7531,14 +7531,14 @@
     "href": "slides/week-14/14-ClosingSession.html#outlook-what-is-possible",
     "title": "Closing Session",
     "section": "Outlook: What is possible?",
-    "text": "Outlook: What is possible?\n\nnews-r: https://gallery.shinyapps.io/freedom-press-index/#home"
+    "text": "Outlook: What is possible?\n\n\n\nnews-r: https://gallery.shinyapps.io/freedom-press-index/#home"
   },
   {
     "objectID": "slides/week-14/14-ClosingSession.html#your-feedback",
     "href": "slides/week-14/14-ClosingSession.html#your-feedback",
     "title": "Closing Session",
     "section": "Your Feedback",
-    "text": "Your Feedback\n\n“Open round”\nPlease take some time to fill out the survey by the institute. This is both valuable for me professionally but also for further iterations of this seminar!\n\n\n\nAutomated Data Collection | Spring 2024 | University of Mannheim"
+    "text": "Your Feedback\n\n“Open round”\nPlease take some time to fill out the survey by the institute. This is both valuable for me professionally but also for further iterations of this seminar!"
   },
   {
     "objectID": "slides/week-01/01-IntroSession.html#shiny-apps-in-your-final-project",
@@ -7553,5 +7553,12 @@
     "title": "Intro Session",
     "section": "Shiny apps can also look like this:",
     "text": "Shiny apps can also look like this:\n\n\n\nnews-r: https://gallery.shinyapps.io/freedom-press-index/#home"
+  },
+  {
+    "objectID": "slides/week-03/03-Data.html#tba",
+    "href": "slides/week-03/03-Data.html#tba",
+    "title": "Tidyverse I: Import, tidy, and transform",
+    "section": "TBA",
+    "text": "TBA\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
   }
 ]
