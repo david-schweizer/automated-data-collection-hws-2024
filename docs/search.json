@@ -7560,5 +7560,250 @@
     "title": "Tidyverse I: Import, tidy, and transform",
     "section": "TBA",
     "text": "TBA\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#plan-for-today",
+    "href": "slides/week-02/02-Intro_R.html#plan-for-today",
+    "title": "Intro to R",
+    "section": "Plan for today",
+    "text": "Plan for today\nInput\n\nR, R Studio, and basics\nData types & formats\nHow to deal with objects\n\nYour turn: Short exercises"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#section",
+    "href": "slides/week-02/02-Intro_R.html#section",
+    "title": "Intro to R",
+    "section": "",
+    "text": "R is a language and environment for statistical computing and graphics. Click here for more info\nWe refer to the basic functionalities of R as base R\nWe can extend these installing R packages from CRAN (The Comprehensive R Archive Network). For example, the tidyverse. This allows us to simplify the data analysis workflow.\nBUT: It comes with a limited GUI (Graphical User Interface)"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#r-gui",
+    "href": "slides/week-02/02-Intro_R.html#r-gui",
+    "title": "Intro to R",
+    "section": "R GUI",
+    "text": "R GUI"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#section-1",
+    "href": "slides/week-02/02-Intro_R.html#section-1",
+    "title": "Intro to R",
+    "section": "",
+    "text": "RStudio is the most popular IDE (Integretated Development Environment) for R.\n\nIDEs enable syntax highlighting, auto-completion, or a better overview our created output.\n\nBeyond these general benefits, R Studio provides us with\n\nan integration of version control via Git and addins such as citr or styler\ninterfaces to other programming languages (e.g., Python via the reticulate package)"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#r-studio-interface",
+    "href": "slides/week-02/02-Intro_R.html#r-studio-interface",
+    "title": "Intro to R",
+    "section": "R Studio Interface",
+    "text": "R Studio Interface"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#r-studio---script-editor",
+    "href": "slides/week-02/02-Intro_R.html#r-studio---script-editor",
+    "title": "Intro to R",
+    "section": "R Studio - Script editor",
+    "text": "R Studio - Script editor"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#r-studio---console",
+    "href": "slides/week-02/02-Intro_R.html#r-studio---console",
+    "title": "Intro to R",
+    "section": "R Studio - Console",
+    "text": "R Studio - Console"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#r-studio---environment",
+    "href": "slides/week-02/02-Intro_R.html#r-studio---environment",
+    "title": "Intro to R",
+    "section": "R Studio - Environment",
+    "text": "R Studio - Environment"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#r-studio---files-plots-help",
+    "href": "slides/week-02/02-Intro_R.html#r-studio---files-plots-help",
+    "title": "Intro to R",
+    "section": "R Studio - Files, Plots, Help, …",
+    "text": "R Studio - Files, Plots, Help, …"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#r-studio---options",
+    "href": "slides/week-02/02-Intro_R.html#r-studio---options",
+    "title": "Intro to R",
+    "section": "R Studio - Options",
+    "text": "R Studio - Options"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#using-r-as-a-calculator",
+    "href": "slides/week-02/02-Intro_R.html#using-r-as-a-calculator",
+    "title": "Intro to R",
+    "section": "Using R as a calculator",
+    "text": "Using R as a calculator\nThe simplest application is to use R as a calculator:\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n1 / 10\n\n[1] 0.1\n\n\n\n\n\n2 * 2\n\n[1] 4"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#commenting-code",
+    "href": "slides/week-02/02-Intro_R.html#commenting-code",
+    "title": "Intro to R",
+    "section": "Commenting code",
+    "text": "Commenting code\nWe can comment our code using the #. Input thereafter will not be executed as code.\n\n# Addition\n1 + 1\n\n[1] 2\n\n\n\n\n\n2 * 2 # 2 times 2 should equal four\n\n[1] 4\n\n\nTypically, we want to comment our code extensively for replicability and reusability."
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#functions",
+    "href": "slides/week-02/02-Intro_R.html#functions",
+    "title": "Intro to R",
+    "section": "Functions",
+    "text": "Functions\nFunctions are essential for our workflow in R. They take input(s) as argument, and produce output(s) depending on the input.\n\nsqrt(100)\n\n[1] 10"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#objects-i",
+    "href": "slides/week-02/02-Intro_R.html#objects-i",
+    "title": "Intro to R",
+    "section": "Objects I",
+    "text": "Objects I\nR is an object-oriented programming language.\n\nTherefore, we can store single values, multiple values, character strings, etc. in an object.\nWe can assign a single value to an object using the assignment operator &lt;-\n\n\n# here we assign the numeric value 10 to the object x:\nx &lt;- 10\n\n# we can do the same for a character string:\ny &lt;- \"This is a character string\""
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#objects-ii",
+    "href": "slides/week-02/02-Intro_R.html#objects-ii",
+    "title": "Intro to R",
+    "section": "Objects II",
+    "text": "Objects II\nWe can also store the output of functions in objects:\n\n# here, we calculate the square root of 100 \n# and store it in a object called \"result\"\nresult &lt;- sqrt(100)\n\nFurther, we can also do calculations with objects:\n\n# here we add our two objects and store the result in z\nz &lt;- x + result\n\nFinally, we can print the object to the console by typing its name:\n\n# z should print the number 20 (10 + sqrt(10))\nz\n\n[1] 20"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#packages",
+    "href": "slides/week-02/02-Intro_R.html#packages",
+    "title": "Intro to R",
+    "section": "Packages",
+    "text": "Packages\n\nPackages allow us to go beyond base R functionalities.\nThey consist of various functions that simplify tasks and provide documentation.\n\n\n\nWe can install packages from within R via CRAN:\n\n\n# we need to install packages only once:\ninstall.packages(\"stringr\")\n\n# however, we need to load the package every time we (re-)start R\nlibrary(stringr)"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#example-stringr",
+    "href": "slides/week-02/02-Intro_R.html#example-stringr",
+    "title": "Intro to R",
+    "section": "Example: stringr",
+    "text": "Example: stringr\n\n# lets load the stringr package:\nlibrary(stringr)\n\n# using the help() function, we can inspect the documentation\nhelp(stringr)"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#example-stringr-1",
+    "href": "slides/week-02/02-Intro_R.html#example-stringr-1",
+    "title": "Intro to R",
+    "section": "Example: stringr",
+    "text": "Example: stringr\nThe stringr package provides us with multiple functions to manipulate strings.\n\n# as an example, we create a fictitious actor ID from the Twitter API\nstring &lt;- \"id:twitter.com:207584738373\"\n\n# to match this ID with meta data, we only want to keep the numbers\n# we can make use of the function str_replace()\n# It needs these arguments: str_replace(string, pattern, replacement)\nclean_ID &lt;- str_replace(string, \"id:twitter.com:\", \"\")\n\n# let's check if it worked:\nclean_ID\n\n[1] \"207584738373\""
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#tidyverse",
+    "href": "slides/week-02/02-Intro_R.html#tidyverse",
+    "title": "Intro to R",
+    "section": "tidyverse",
+    "text": "tidyverse"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#tidyverse-vs.-base-r",
+    "href": "slides/week-02/02-Intro_R.html#tidyverse-vs.-base-r",
+    "title": "Intro to R",
+    "section": "tidyverse vs. base R",
+    "text": "tidyverse vs. base R\nThe tidyverse has become very popular among R users. It provides:\n\nclean and tidy code (readability)\nfunctions for typical data science tasks\na coherent “grammar”\n\nBUT: it also introduces dependencies, and packages evolve."
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#develop-your-own-coding-style",
+    "href": "slides/week-02/02-Intro_R.html#develop-your-own-coding-style",
+    "title": "Intro to R",
+    "section": "Develop your own coding style",
+    "text": "Develop your own coding style"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#it-all-depends-on-how",
+    "href": "slides/week-02/02-Intro_R.html#it-all-depends-on-how",
+    "title": "Intro to R",
+    "section": "It all depends on how",
+    "text": "It all depends on how\n\nhow &where data is stored\n\n\nHow: data types\n\nNumeric values (integers & doubles)\nCharacter strings\nLogical values\nFactors\n…\n\n\n\nWhere: data formats\n\nVectors\nData frames/Tibbles\nLists\n…"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#numeric-values",
+    "href": "slides/week-02/02-Intro_R.html#numeric-values",
+    "title": "Intro to R",
+    "section": "Numeric values",
+    "text": "Numeric values\nThere are two types in R: Integers (numbers without a decimal values) and doubles (numbers with decimal values)\n\n# We place an L behind the value to be specific that it is an integer\nx &lt;- 10L\n\n# using the typeof() function we can check the data type\ntypeof(x)\n\n[1] \"integer\"\n\n\n\n# create a double\nz &lt;- 10.55\n\n# check data type\ntypeof(z)\n\n[1] \"double\"\n\n\n\n# is x numeric?\nis.numeric(x)\n\n[1] TRUE"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#character-strings",
+    "href": "slides/week-02/02-Intro_R.html#character-strings",
+    "title": "Intro to R",
+    "section": "Character strings",
+    "text": "Character strings\nA string represents a series of characters. Numbers and/or symbols can also be part of a string.\n\n# we need to wrap the string into quotation marks\n\nstring &lt;- \"Hello\"\n\n# we can check the type using class()\nclass(string)\n\n[1] \"character\"\n\n# an example with numbers\nID &lt;- \"id:twitter.com:207584738373\"\n\n# check again\nclass(string)\n\n[1] \"character\""
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#factors",
+    "href": "slides/week-02/02-Intro_R.html#factors",
+    "title": "Intro to R",
+    "section": "Factors",
+    "text": "Factors\nWe call data types that assume that their values are not continuous and have distinct categories factors.\nFactors take numeric values or character strings as input and convert them into so-called levels:\n\n# let's create an factor:\nfactor(1)\n\n[1] 1\nLevels: 1"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#logical-values",
+    "href": "slides/week-02/02-Intro_R.html#logical-values",
+    "title": "Intro to R",
+    "section": "Logical values",
+    "text": "Logical values\nThey are either TRUE or FALSE (and also called Boolean values). We produce them by making logical requests:\n\n1 &gt; 2\n\n[1] FALSE\n\n\nWe can also store logical values is objects:\n\nlogical &lt;- 1 &gt; 2\n\nlogical\n\n[1] FALSE"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#logical-operators",
+    "href": "slides/week-02/02-Intro_R.html#logical-operators",
+    "title": "Intro to R",
+    "section": "Logical operators",
+    "text": "Logical operators\n\nRelationalLogical\n\n\n\n&lt; less than\n&lt;= less than or equal to\n&gt; greater than\n&gt;= greater than or equal to\n== exactly equal to\n!= not equal to\n\n\n\n\n& (AND)\n| (OR)"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#data-formats",
+    "href": "slides/week-02/02-Intro_R.html#data-formats",
+    "title": "Intro to R",
+    "section": "Data formats",
+    "text": "Data formats"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#vector",
+    "href": "slides/week-02/02-Intro_R.html#vector",
+    "title": "Intro to R",
+    "section": "Vector",
+    "text": "Vector\nWe can create vectors by combining individual objects with the function c() (“concatenating”):\n\n# This works for numbers\nnumeric_vector &lt;- c(1,2,3)\n\nnumeric_vector\n\n[1] 1 2 3\n\n\n\n# ... for characters\ncharacter_vector &lt;- c(\"CDU\", \"CSU\", \"SPD\")\n\ncharacter_vector\n\n[1] \"CDU\" \"CSU\" \"SPD\"\n\n\n\n# and for logical values\nlogical_vector &lt;- c(TRUE, FALSE, FALSE)\n\nlogical_vector\n\n[1]  TRUE FALSE FALSE"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#data-frames",
+    "href": "slides/week-02/02-Intro_R.html#data-frames",
+    "title": "Intro to R",
+    "section": "Data frames",
+    "text": "Data frames\nThey are comparable to data sets as in Stata or SPSS\n\nwith n rows and k columns\nand allow us to store variables of different classes.\n\n\n# we create a data frame called df \n# using the function \"data.frame()\ndf &lt;- data.frame(\n  party = c(\"CDU\", \"CSU\", \"SPD\"),\n  vote_share = c(\"27\", \"5\", \"13\")\n)\n\n. .\n\ndf\n\n  party vote_share\n1   CDU         27\n2   CSU          5\n3   SPD         13"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#data-frames-1",
+    "href": "slides/week-02/02-Intro_R.html#data-frames-1",
+    "title": "Intro to R",
+    "section": "Data frames",
+    "text": "Data frames\nWe can also check the dimensions, number of observations, and number of variables:\n\n# dimensions\ndim(df)\n\n[1] 3 2\n\n# number of observations\nnrow(df)\n\n[1] 3\n\n# number of variables\nncol(df)\n\n[1] 2"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#lists",
+    "href": "slides/week-02/02-Intro_R.html#lists",
+    "title": "Intro to R",
+    "section": "Lists",
+    "text": "Lists\nWe can combine any number of objects to a list:\n\n# using the list() function\ntest_list &lt;- list(numeric_vector,\n                  character_vector)\n\ntest_list\n\n[[1]]\n[1] 1 2 3\n\n[[2]]\n[1] \"CDU\" \"CSU\" \"SPD\""
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#accessing-and-subsetting-objects",
+    "href": "slides/week-02/02-Intro_R.html#accessing-and-subsetting-objects",
+    "title": "Intro to R",
+    "section": "Accessing and subsetting objects",
+    "text": "Accessing and subsetting objects\n\nTypically, we are not interested in all of the data\nWe want to access specific information\nThis works similar across different object types (vectors, data frames, lists, …)\n\n\n# Let's go back to our party vector:\nparty_vector &lt;- c(\"CDU\", \"CSU\", \"SPD\")\n\n# we only want to access the first element\nparty_vector[1]\n\n[1] \"CDU\"\n\n\n\n# we can store this in a new object:\nCDU &lt;- party_vector[1]"
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#accessing-and-subsetting-data-frames",
+    "href": "slides/week-02/02-Intro_R.html#accessing-and-subsetting-data-frames",
+    "title": "Intro to R",
+    "section": "Accessing and subsetting data frames",
+    "text": "Accessing and subsetting data frames\nWe can select rows, columns, and specific elements. This follows the general logic:\n\ndata_frame[specify_row, specify_column]\n\nLet’s try this:\n\n# This is our data frame\ndf\n\n  party vote_share\n1   CDU         27\n2   CSU          5\n3   SPD         13\n\n# Let's select only the first column\ndf[,1]\n\n[1] \"CDU\" \"CSU\" \"SPD\""
+  },
+  {
+    "objectID": "slides/week-02/02-Intro_R.html#accessing-and-subsetting-data-frames-1",
+    "href": "slides/week-02/02-Intro_R.html#accessing-and-subsetting-data-frames-1",
+    "title": "Intro to R",
+    "section": "Accessing and subsetting data frames",
+    "text": "Accessing and subsetting data frames\nWe can also access individual variables using the $ sign:\n\ndf$party\n\n[1] \"CDU\" \"CSU\" \"SPD\"\n\n\nAlternatively, we can index by variable name:\n\ndf[\"party\"]\n\n  party\n1   CDU\n2   CSU\n3   SPD\n\n\nOr variable order:\n\ndf[1]\n\n  party\n1   CDU\n2   CSU\n3   SPD"
   }
 ]

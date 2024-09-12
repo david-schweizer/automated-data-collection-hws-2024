@@ -80,4 +80,3 @@ new_string = " id:twitter.com:207584738373???? "
 
 # How can you get rid of the white space?
 # How can we again just end up with the numbers?
-
