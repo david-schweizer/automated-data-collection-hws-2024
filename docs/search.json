@@ -132,14 +132,14 @@
     "href": "weeks/week-02.html",
     "title": "Intro to R",
     "section": "",
-    "text": "To Do’s before our session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via ILIAS or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!\n\n\n\n\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nIntro to R\n\n\nWeek 2\n\n\nSep 12, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can download the exercise for today’s session here."
+    "text": "To Do’s before our session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via ILIAS or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!\n\n\n\n\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nIntro to R\n\n\nWeek 2\n\n\nSep 12, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can download the exercise for today’s session here.\nThe solution to the exercise can be found here."
   },
   {
     "objectID": "slides/week-01/01-Intro.html",
     "href": "slides/week-01/01-Intro.html",
     "title": "Intro Session",
     "section": "",
-    "text": "Plan for today:\n\nIntroduction round\n\nGetting to know each other\n\nCourse content and structure\n\nWhat will we do in this course?\n\nYour expectations\n\nWhat are you interested in?\n\nCourse requirements and basic information\n\nWhat do you need to do in this course?\n\n\n\n\nIntroduction round\n\nI’ll go first. A few words about me.\nYou’re next. Groups of 2.\n\nIntroduce yourselves to your classmates\nName, background, what do you study, interests, personal interests and hobbies, …\n\nPlenum\n\nIn a few sentences, present yourself to the plenum.\nAnd: tell the plenum one thing about the person you just met.\n\n\n\n\nAbout me\n\nPhD candidate in Political Science since fall 2021, focus on party competition and intra-party politics\nAcademic Background:\n\nPolitical Science (LMU) and Economics (Goethe University)\n\nInterested in all kinds of sports & fantasy books\n\n\n\nYour turn!\n\n\nCourse content and structure\n\n\nYour expectations\n\n\nCourse requirements and basic information"
+    "text": "Introduction round: Getting to know each other\nCourse content and schedule\nYour expectations\nMy expectations & course requirements\nMotivation for the course"
   },
   {
     "objectID": "syllabus.html#course-description",
@@ -7805,5 +7805,117 @@
     "title": "Intro to R",
     "section": "Accessing and subsetting data frames",
     "text": "Accessing and subsetting data frames\nWe can also access individual variables using the $ sign:\n\ndf$party\n\n[1] \"CDU\" \"CSU\" \"SPD\"\n\n\nAlternatively, we can index by variable name:\n\ndf[\"party\"]\n\n  party\n1   CDU\n2   CSU\n3   SPD\n\n\nOr variable order:\n\ndf[1]\n\n  party\n1   CDU\n2   CSU\n3   SPD"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#plan-for-today",
+    "href": "slides/week-01/01-Intro.html#plan-for-today",
+    "title": "Intro Session",
+    "section": "",
+    "text": "Introduction round: Getting to know each other\nCourse content and schedule\nYour expectations\nMy expectations & course requirements\nMotivation for the course"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#introduction-round",
+    "href": "slides/week-01/01-Intro.html#introduction-round",
+    "title": "Intro Session",
+    "section": "Introduction round",
+    "text": "Introduction round\n\nI’ll go first. A few words about me\nYou’re next. Groups of 2-3\n\nIntroduce yourselves to your classmates\nWhat is your name? Where are you from? What do you study? Did you pick up a new hobby recently?\n\nPlenum\n\nIn a few sentences, present yourself to the plenum and tell the others one thing about the person you just met"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#about-me",
+    "href": "slides/week-01/01-Intro.html#about-me",
+    "title": "Intro Session",
+    "section": "About me",
+    "text": "About me\n\nPhD candidate in Political Science at the CDSS and research associate at the Chair of Comparative Government since fall 2021\nFocus on party competition and intra-party politics\nAcademic Background:\n\nM.A. Political Science (LMU)\nB.Sc. Economics (Goethe University)\n\nNew hobby: mountaineering"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#experience-interests",
+    "href": "slides/week-01/01-Intro.html#experience-interests",
+    "title": "Intro Session",
+    "section": "Experience & Interests",
+    "text": "Experience & Interests"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#schedule-content",
+    "href": "slides/week-01/01-Intro.html#schedule-content",
+    "title": "Intro Session",
+    "section": "Schedule & Content",
+    "text": "Schedule & Content\n\nIntroBlock I… II… III… IIClosing\n\n\n\nWeek 01 - 05.09.2024 - Intro Session\n\n\n\nBlock I: Import, Tidy & Transform Data\n\nWeek 02 - 12.09.2024 - Intro to R\nWeek 03 - 19.09.2024 - Tidyverse I: Import, tidy, and transform\nNo session on 26.09.2024 and 03.10.2024\nWeek 06 - 10.10.2024 - Tidyverse II: Import, tidy, and transform\n\n\n\nBlock II: Visualize, Communicate & Collaborate\n\nWeek 07 - 17.10.2024 - ggplot: Visualize & Quarto\nWeek 08 - 24.10.2024 - Version control (Github)\n\n\n\nBlock III: Web scraping\n\nWeek 09 - 31.10.2024 - Web scraping basics\nWeek 10 - 07.11.2024 - Web scraping static\nWeek 11 - 14.11.2024 - Web scraping dynamic\n\n\n\nBlock II: Communicate Interactively\n\nWeek 12 - 21.11.2024 - Interactive I: Create your first Shiny app\nWeek 13 - 28.11.2024 - Interactive II: Making pretty Shiny apps app\n\n\n\n\nWeek 14 - 05.12.2024 - Closing Session: Presentations"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#your-expectations",
+    "href": "slides/week-01/01-Intro.html#your-expectations",
+    "title": "Intro Session",
+    "section": "Your expectations",
+    "text": "Your expectations"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#plan-expectations",
+    "href": "slides/week-01/01-Intro.html#plan-expectations",
+    "title": "Intro Session",
+    "section": "Plan & expectations",
+    "text": "Plan & expectations\n\nWe are a small group. Great!\nMix of lecture-style input, live coding, group exercises, and discussion.\nSmall group also means: Active participation in class and preparation\nWillingness to invest time to learn a (new) programming language, look for solutions on your own, and keep trying"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#organisation-resources",
+    "href": "slides/week-01/01-Intro.html#organisation-resources",
+    "title": "Intro Session",
+    "section": "Organisation & Resources",
+    "text": "Organisation & Resources\n\nMaterials will be provided via the course website.\nCommunication via ILIAS. Make sure that you have access to the course on ILIAS and that emails that are sent over ILIAS are forwarded to the email account you check regularly\nWeekly office hours after the course. Please make an appointment via e-mail."
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#course-requirements",
+    "href": "slides/week-01/01-Intro.html#course-requirements",
+    "title": "Intro Session",
+    "section": "Course requirements",
+    "text": "Course requirements\n\nActive participation & preparation\nTwo short, individual assignments during the semester (10% of your grade)\nData project (90% of your grade)\n\nSee syllabus! But also more on this during the semester."
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#shiny-apps-in-your-final-project",
+    "href": "slides/week-01/01-Intro.html#shiny-apps-in-your-final-project",
+    "title": "Intro Session",
+    "section": "Shiny apps in your final project",
+    "text": "Shiny apps in your final project\n\n\n\nStatePol Database: &lt;https://statepol.github.io/Database/&gt;"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#shiny-apps-can-also-look-like-this",
+    "href": "slides/week-01/01-Intro.html#shiny-apps-can-also-look-like-this",
+    "title": "Intro Session",
+    "section": "Shiny apps can also look like this:",
+    "text": "Shiny apps can also look like this:\n\n\n\nnews-r: https://gallery.shinyapps.io/freedom-press-index/#home"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#important",
+    "href": "slides/week-01/01-Intro.html#important",
+    "title": "Intro Session",
+    "section": "Important!",
+    "text": "Important!\n\nIllness (& Covid)DisabilitiesSupport\n\n\n\nIf you feel ill or have symptoms, please be considerate of your fellow students and yourself(!). Just let me know by e-mail.\n\n\n\n\nPlease contact me or the Office of Student Affairs if you need special assistance due to disabilities or chronic illnesses.\nAnd please do this early in the semester so that we can make the appropriate arrangements immediately.\n\n\n\n\nOf course, you can always talk directly to me if you feel comfortable with the question. It is important to note that the University’s Equality and Diversity Office supports and advises you in cases of discrimination or sexual harassment. The responsible contact person in such a case is Dipl.-Psych. Ute Pfründer. She is trained to deal with such incidents and will keep everything strictly confidential. No action will be taken without your express consent."
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#motivation",
+    "href": "slides/week-01/01-Intro.html#motivation",
+    "title": "Intro Session",
+    "section": "Motivation",
+    "text": "Motivation"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#motivation-1",
+    "href": "slides/week-01/01-Intro.html#motivation-1",
+    "title": "Intro Session",
+    "section": "Motivation",
+    "text": "Motivation\nThe goal of this course is to equip you with the skills to:\n\ncollect your own data\ntidy, transform & visualize the data\ncommunicate your data & (exploratory) results\ncollaborate with others along the workflow\n\nTaking this course should not be an end in itself!"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#why-r",
+    "href": "slides/week-01/01-Intro.html#why-r",
+    "title": "Intro Session",
+    "section": "Why R?",
+    "text": "Why R?\n\nBenefitsLearningRewardOpportunity\n\n\n\nVersatile: Visualizations, statistical analysis, programming, incorporation of other programming languages\nFree and open source\n\nLarge community, there is basically an answer to every question you will have online: Stackoverflow, ChatGPT, …\n\nIncreasing popularity in academia & industry"
+  },
+  {
+    "objectID": "slides/week-01/01-Intro.html#until-our-next-session",
+    "href": "slides/week-01/01-Intro.html#until-our-next-session",
+    "title": "Intro Session",
+    "section": "Until our next session",
+    "text": "Until our next session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\nMake sure that you have access to ILIAS.\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via ILIAS or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!"
   }
 ]
