@@ -28,7 +28,7 @@
     "href": "material.html",
     "title": "Schedule, slides & materials",
     "section": "",
-    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\n\nNo matching items",
+    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule, slides & materials"
     ]
@@ -200,28 +200,28 @@
     "href": "weeks/week-03.html",
     "title": "Tidyverse I: Import, tidy, and transform",
     "section": "",
-    "text": "To Do’s before our session\n\nReadThink\n\n\n\nChapter 7: Data Import in R for Data Science\n\nLink to free online version\n\nChapter 3: Data Transformation in R for Data Science\n\nLink to free online version\n\n\n\n\n\nQuestions to think about until our next session:\n\nDo you have a particular data set you would like to import into R? Let me know!\n\n\n\n\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nTidyverse I: Import, tidy, and transform\n\n\nWeek 3\n\n\nSep 19, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA."
+    "text": "To Do’s before our session\n\nReadThink\n\n\n\nChapter 7: Data Import in R for Data Science\n\nLink to free online version\n\nChapter 3: Data Transformation in R for Data Science\n\nLink to free online version\n\n\n\n\n\nQuestions to think about until our next session:\n\nDo you have a particular data set you would like to import into R? Let me know!\n\n\n\n\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nTidyverse I: Import, tidy, and transform\n\n\nWeek 3\n\n\nSep 19, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can download the exercise for today’s session here."
   },
   {
     "objectID": "weeks/week-04.html",
     "href": "weeks/week-04.html",
-    "title": "Tidyverse II: Import, tidy, and transform",
+    "title": "No Session",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nTidyverse II: Import, tidy, and transform\n\n\nWeek 4\n\n\nMar 5, 2023\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou find the R script with the coding task here. The solution to the task can be found here.\nYou can download the original .csv files from the BundeswahlleiterIn here. If you struggle with the data import, you can find the necessary data frames here.\n\n\nTo Do’s before our session\nTry to apply the learnings from last session! Import your own data set, and wrangle the data."
+    "text": "No Session"
   },
   {
     "objectID": "weeks/week-05.html",
     "href": "weeks/week-05.html",
-    "title": "ggplot: Visualize",
+    "title": "No Session",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nggplot: Visualize\n\n\nWeek 5\n\n\nMar 12, 2023\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find the R script and data for today’s session here.\nFurther, you can find free and great resources on data visualization here:\n\nFundamentals of Data Visualization\nData Visualization: A Practical Introduction\nCedric Scherer Blog\nThe R Graph Gallery\n\n\n\nTo Do’s before our session\n\nHave a look at Chapter 1: Visualize.\nThink: What visualizations might be appropriate for your data?"
+    "text": "No Session"
   },
   {
     "objectID": "weeks/week-06.html",
     "href": "weeks/week-06.html",
-    "title": "R Markdown / Quarto",
+    "title": "Tidyverse II: Import, tidy, and transform",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nQuarto\n\n\nWeek 6\n\n\nMar 19, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find the Quarto document here.\n\n\nTo Do’s before our session\n\nWork on the first assignment. The deadline is 19.03.2024 15:00. You should submit the assignment via ILIAS. You can download the assignment and data here.\nHave a look at chapter 28 and 29 in R for Data Science."
+    "text": "To Do’s before our session\n\nWork on the first assignment. The deadline is 03.10.2024 15:15. You should submit the assignment via ILIAS. You can download the assignment here.\nIn addition, try to apply the learnings from last session beyond the first assignment! Import your own data set, and wrangle the data.\nIf you want to work in a group on the data project: Connect with others (e.g., via ILIAS)!\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nTidyverse II: Import, tidy, and transform\n\n\nWeek 6\n\n\nOct 10, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA"
   },
   {
     "objectID": "weeks/week-07.html",
@@ -5039,7 +5039,7 @@
     "href": "slides/week-03/03-Data.html#plan-for-today",
     "title": "Tidyverse I: Import, tidy, and transform",
     "section": "Plan for today",
-    "text": "Plan for today\n\nData project workflow from R for Data Science"
+    "text": "Plan for today\n\n\n\nData project workflow from R for Data Science"
   },
   {
     "objectID": "slides/week-03/03-Data.html#data-project-workflow",

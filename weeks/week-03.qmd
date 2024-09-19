@@ -34,6 +34,7 @@ listing:
   #   filter-ui: false
 tbl-colwidths: [10,50,40]
 ---
+
 # To Do's before our session
 
 ::: panel-tabset
@@ -54,7 +55,6 @@ tbl-colwidths: [10,50,40]
     -   Do you have a particular data set you would like to import into R? Let me know!
 :::
 
-
 # Seminar slides
 
 ::: {#slides}
@@ -62,5 +62,4 @@ tbl-colwidths: [10,50,40]
 
 # Materials
 
-TBA.
-
+You can download the exercise for today's session [**here**](https://ilias.uni-mannheim.de/goto.php?target=file_1555886_download&client_id=ILIAS).
