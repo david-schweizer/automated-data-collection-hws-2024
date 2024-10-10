@@ -1,13 +1,13 @@
 ---
-title: "Version control (Github)"
-subtitle: "Week 09"
+title: "ggplot: Visualize & Quarto"
+subtitle: "Week 07"
 description: ""
 author: ""
-date: "Apr 09, 2024"
+date: "Oct 17, 2024"
 listing:
   - id: slides
     contents:
-      - ../slides/week-07/*.qmd
+      - ../slides/week-05/*.qmd
     type: table
     fields: [title, subtitle, date]
     #date-format: "ddd, MMM DD"
@@ -35,6 +35,12 @@ listing:
 tbl-colwidths: [10,50,40]
 ---
 
+# **To Do’s before our session**
+
+-   Have a look at [Chapter 1: Visualize](https://r4ds.hadley.nz/data-visualize).
+
+-   Think: What visualizations might be appropriate for your data?
+
 # Seminar slides
 
 ::: {#slides}
@@ -42,9 +48,14 @@ tbl-colwidths: [10,50,40]
 
 # Materials
 
-There are not additional materials for this week.
+TBA
 
-# To Do's before our session
+**Further, you can find free and great resources on data visualization here:**
 
--   Work on the **mid-term assignment**. The **deadline is 09.04.2024 15:00**. You should submit the assignment via ILIAS. You can download the assignment and data here.
--   Create a [Github account](https://github.com/) and install [GitHub Desktop](https://desktop.github.com/).
+-   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+
+-   [Data Visualization: A Practical Introduction](https://socviz.co/#preface)
+
+-   [Cedric Scherer Blog](https://www.cedricscherer.com/top/dataviz/)
+
+-   [The R Graph Gallery](https://r-graph-gallery.com/)

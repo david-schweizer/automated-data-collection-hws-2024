@@ -7,7 +7,7 @@ date: "Oct 10, 2024"
 listing:
   - id: slides
     contents:
-      - ../slides/week-06/*.qmd
+      - ../slides/week-04/*.qmd
     type: table
     fields: [title, subtitle, date]
     #date-format: "ddd, MMM DD"
@@ -37,7 +37,7 @@ tbl-colwidths: [10,50,40]
 
 # To Do's before our session
 
--   Work on the **first assignment**. The **deadline is 03.10.2024 15:15**. You should submit the assignment via ILIAS. You can download the assignment [**here**](https://ilias.uni-mannheim.de/goto.php?target=file_1555912_download&client_id=ILIAS).
+-   Work on the **first assignment**. The **deadline is 04.10.2024 15:15**. You should submit the assignment via ILIAS. You can download the assignment [**here**](https://ilias.uni-mannheim.de/goto.php?target=file_1555912_download&client_id=ILIAS).
 -   In addition, try to apply the learnings from last session beyond the first assignment! Import your own data set, and wrangle the data.
 -   If you want to work in a group on the data project: Connect with others (e.g., via ILIAS)!
 
@@ -48,4 +48,4 @@ tbl-colwidths: [10,50,40]
 
 # Materials
 
-TBA
+You can find the exercise [**here**](https://ilias.uni-mannheim.de/goto.php?target=file_1565204_download&client_id=ILIAS).

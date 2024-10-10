@@ -7,7 +7,8 @@
       "/weeks/week-03.html",
       "/weeks/week-04.html",
       "/weeks/week-05.html",
-      "/weeks/week-06.html"
+      "/weeks/week-06.html",
+      "/weeks/week-07.html"
     ]
   },
   {
@@ -47,13 +48,13 @@
   {
     "listing": "/weeks/week-06.html",
     "items": [
-      "/slides/week-06/06-Uncertainty.html"
+      "/slides/week-04/06-tidy2.html"
     ]
   },
   {
     "listing": "/weeks/week-07.html",
     "items": [
-      "/slides/week-07/07-Relationships.html"
+      "/slides/week-05/05-Themes.html"
     ]
   },
   {

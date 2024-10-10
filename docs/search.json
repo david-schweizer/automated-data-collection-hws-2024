@@ -28,7 +28,7 @@
     "href": "material.html",
     "title": "Schedule, slides & materials",
     "section": "",
-    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\n\nNo matching items",
+    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize & Quarto\n\n\nOctober 17, 2024\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule, slides & materials"
     ]
@@ -156,7 +156,7 @@
     "href": "syllabus.html#course-requirements",
     "title": "Syllabus",
     "section": "Course requirements",
-    "text": "Course requirements\n\nActive participation and preparation:\nActive participation during our weekly sessions is important to get the most out of this course. Engaging with the assigned readings is essential for participation.\nUse ILIAS to post any questions or discuss with your peers if you do not understand concepts. I will also regularly check the ILIAS forum (“Discussion & Questions”).\n\n\nShort assignment during the semester (10% of your grade)\nThere will be two short assignments during the semester. Here, you have to demonstrate that you can apply the concepts/code presented during the session on your own.\nDeadlines:\n\nAssignment 1: 19.09.2024 after the session -&gt; 03.10.2024 15:15\nAssignment 2: 17.10.2024 after the session -&gt; 31.10.2024 15:15\n\n\n\nGroup data project (90% of your grade: 15% presentation of proposal):\nIn a nutshell: Ask a question you’re curious about, collect (webscrape) relevant data and visualize them with regard to your question.\nInstead of a term paper, you will work on a data project. Again, in this final assignment, you need to demonstrate you understanding of the concepts/code covered during the semester. The goal is that you build your own data set using web scraping methods and present this data set. Hence, the data project includes the following steps:\n\nCollect own data using web scraping methods\nTidy and transform the data\nPossibly enrich the data set with other data (sets)\nVisualize your data\nPresent your data set using an interactive web application or an (interactive Quarto document)\nDescribe: How could you or other researchers make use of this data for empirical research - What might be possible research questions?\n\nGroup work (2 or 3 students). In case of group work, each student will receive the same grade.\n\nTimeline & Submission\n\nForm groups until 10.10.2024: 2 or 3 students\nData project proposals until 07.11.2024: Come up with at least two project proposals and discuss them during office hours. Outline your motivation, a possible research questions, and identify data sources (for webscraping).\nData project proposal presentations at 05.12.2024: Presentation should last no longer than ten minutes. Introduce the topic, your motivation, and the data source. Outline how you scrape the data. Include a first glimpse at the data.\nDeadline for the data project: December 26, 2024, 23:59.\n\nSubmission via ILIAS (zip folder: This should include your code for the Shiny dashboard, R.data files, any R scripts for pre-processing, as well as raw data).\n\nIn case of any questions or problems, please get in touch with me as early as possible. Late submission will result in grade deductions.\n\n\n\nGrading of the project will take into account the following:\n\nData collection: Correct? “Polite”? Documentation?\nData transformation: Correct? Documentation/Annotation?\nCommunication (Visualization(s) via dashboard): Correct? Style? Effort?\nCollaboration: Working together via Github\nReproducibility: Can the dashboard and all pre-processing steps executed on another device without error? (You need to hand in the code for the shiny dashboard, R.data files, any R scripts for pre-processing, and the raw data.)\nBONUS: Creativity and Critical Thought - Is the project carefully thought out? How well is the project documented? Does it appear that time and effort went into the planning and implementation of the project?\n\nA general breakdown of scoring is as follows:\n\n1,0: Outstanding effort. Student understands how to apply all concepts o the seminar, can collect data via webscraping “politely”, transform and visualize the data coherently and convincingly, and do so in a reproducible way.\n1,3 - 2,0: Good effort. Student seems to understand most of the concepts and there are only minor mistakes regarding data collection and transformation. Communication could be clearer and/or the project is not fully reproducible.\n2,3 - 3,0: Good/Passing effort. Student has misunderstanding of concepts in several areas, has some trouble with data collection and transformation, and the communication of results is sometimes unclear. Further, the project is not fully reproducible and it is visible that little effort went into the project.\n3,3 - 4,0: Struggling effort. Student is making some effort, but has misunderstanding of many concepts and is unable to put together the workflow of the data project. Communication is unclear, the project is not reproducible.\nFail: Student is not making a sufficient effort.",
+    "text": "Course requirements\n\nActive participation and preparation:\nActive participation during our weekly sessions is important to get the most out of this course. Engaging with the assigned readings is essential for participation.\nUse ILIAS to post any questions or discuss with your peers if you do not understand concepts. I will also regularly check the ILIAS forum (“Discussion & Questions”).\n\n\nShort assignment during the semester (10% of your grade)\nThere will be two short assignments during the semester. Here, you have to demonstrate that you can apply the concepts/code presented during the session on your own.\nDeadlines:\n\nAssignment 1: 19.09.2024 after the session -&gt; 04.10.2024 15:15\nAssignment 2: 17.10.2024 after the session -&gt; 31.10.2024 15:15\n\n\n\nGroup data project (90% of your grade: 15% presentation of proposal):\nIn a nutshell: Ask a question you’re curious about, collect (webscrape) relevant data and visualize them with regard to your question.\nInstead of a term paper, you will work on a data project. Again, in this final assignment, you need to demonstrate you understanding of the concepts/code covered during the semester. The goal is that you build your own data set using web scraping methods and present this data set. Hence, the data project includes the following steps:\n\nCollect own data using web scraping methods\nTidy and transform the data\nPossibly enrich the data set with other data (sets)\nVisualize your data\nPresent your data set using an interactive web application or an (interactive Quarto document)\nDescribe: How could you or other researchers make use of this data for empirical research - What might be possible research questions?\n\nGroup work (2 or 3 students). In case of group work, each student will receive the same grade.\n\nTimeline & Submission\n\nForm groups until 10.10.2024: 2 or 3 students\nData project proposals until 07.11.2024: Come up with at least two project proposals and discuss them during office hours. Outline your motivation, a possible research questions, and identify data sources (for webscraping).\nData project proposal presentations at 05.12.2024: Presentation should last no longer than ten minutes. Introduce the topic, your motivation, and the data source. Outline how you scrape the data. Include a first glimpse at the data.\nDeadline for the data project: December 26, 2024, 23:59.\n\nSubmission via ILIAS (zip folder: This should include your code for the Shiny dashboard, R.data files, any R scripts for pre-processing, as well as raw data).\n\nIn case of any questions or problems, please get in touch with me as early as possible. Late submission will result in grade deductions.\n\n\n\nGrading of the project will take into account the following:\n\nData collection: Correct? “Polite”? Documentation?\nData transformation: Correct? Documentation/Annotation?\nCommunication (Visualization(s) via dashboard): Correct? Style? Effort?\nCollaboration: Working together via Github\nReproducibility: Can the dashboard and all pre-processing steps executed on another device without error? (You need to hand in the code for the shiny dashboard, R.data files, any R scripts for pre-processing, and the raw data.)\nBONUS: Creativity and Critical Thought - Is the project carefully thought out? How well is the project documented? Does it appear that time and effort went into the planning and implementation of the project?\n\nA general breakdown of scoring is as follows:\n\n1,0: Outstanding effort. Student understands how to apply all concepts o the seminar, can collect data via webscraping “politely”, transform and visualize the data coherently and convincingly, and do so in a reproducible way.\n1,3 - 2,0: Good effort. Student seems to understand most of the concepts and there are only minor mistakes regarding data collection and transformation. Communication could be clearer and/or the project is not fully reproducible.\n2,3 - 3,0: Good/Passing effort. Student has misunderstanding of concepts in several areas, has some trouble with data collection and transformation, and the communication of results is sometimes unclear. Further, the project is not fully reproducible and it is visible that little effort went into the project.\n3,3 - 4,0: Struggling effort. Student is making some effort, but has misunderstanding of many concepts and is unable to put together the workflow of the data project. Communication is unclear, the project is not reproducible.\nFail: Student is not making a sufficient effort.",
     "crumbs": [
       "Syllabus"
     ]
@@ -221,14 +221,14 @@
     "href": "weeks/week-06.html",
     "title": "Tidyverse II: Import, tidy, and transform",
     "section": "",
-    "text": "To Do’s before our session\n\nWork on the first assignment. The deadline is 03.10.2024 15:15. You should submit the assignment via ILIAS. You can download the assignment here.\nIn addition, try to apply the learnings from last session beyond the first assignment! Import your own data set, and wrangle the data.\nIf you want to work in a group on the data project: Connect with others (e.g., via ILIAS)!\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nTidyverse II: Import, tidy, and transform\n\n\nWeek 6\n\n\nOct 10, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA"
+    "text": "To Do’s before our session\n\nWork on the first assignment. The deadline is 04.10.2024 15:15. You should submit the assignment via ILIAS. You can download the assignment here.\nIn addition, try to apply the learnings from last session beyond the first assignment! Import your own data set, and wrangle the data.\nIf you want to work in a group on the data project: Connect with others (e.g., via ILIAS)!\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nTidyverse II: Import, tidy, and transform\n\n\nWeek 6\n\n\nOct 10, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find the exercise here."
   },
   {
     "objectID": "weeks/week-07.html",
     "href": "weeks/week-07.html",
-    "title": "Version control (Github)",
+    "title": "ggplot: Visualize & Quarto",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nVersion control (Github)\n\n\nWeek 9\n\n\nApr 9, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nThere are not additional materials for this week.\n\n\nTo Do’s before our session\n\nWork on the mid-term assignment. The deadline is 09.04.2024 15:00. You should submit the assignment via ILIAS. You can download the assignment and data here.\nCreate a Github account and install GitHub Desktop."
+    "text": "To Do’s before our session\n\nHave a look at Chapter 1: Visualize.\nThink: What visualizations might be appropriate for your data?\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nggplot: Visualize & Quarto\n\n\nWeek 7\n\n\nOct 17, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA\nFurther, you can find free and great resources on data visualization here:\n\nFundamentals of Data Visualization\nData Visualization: A Practical Introduction\nCedric Scherer Blog\nThe R Graph Gallery"
   },
   {
     "objectID": "weeks/week-09.html",
@@ -7917,5 +7917,110 @@
     "title": "Intro Session",
     "section": "Until our next session",
     "text": "Until our next session\n\nInstall & JoinReadThink\n\n\n\nMake sure R and RStudio is installed and works\n\nhttps://posit.co/download/rstudio-desktop/\n\nMake sure that you have access to ILIAS.\n\n\n\n\nChapter 2: Get Started in Healy, Data Visualization\n\nLink to free online version\nBegin with 2.2 Use R with RStudio\n\n\n\n\n\nQuestions to think about until our next session:\n\nWhat interests you substantially? Start thinking about possible research areas for your data project.\nFeel also free to point out (via ILIAS or personally via e-mail) which data sets you are interested in. Our coding examples during the weekly sessions can be tailored accordingly!"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#plan-for-today",
+    "href": "slides/week-04/06-tidy2.html#plan-for-today",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Plan for today",
+    "text": "Plan for today\nOrganizational:\n\nFirst assignment & Groups\n\nLast week:\n\nImport, select, filter, and mutate data\n\nToday:\n\nReshape, group & summarize, join, and save data"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#organizational",
+    "href": "slides/week-04/06-tidy2.html#organizational",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Organizational",
+    "text": "Organizational\n\nFirst assignment and only assignment before the Easter break next week: 12.03.2024 after our session, until 19.03.24 15:00. Submission via ILIAS.\nRemaining assignments will be determined before the Easter break but might still change!"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#our-workflow-so-far",
+    "href": "slides/week-04/06-tidy2.html#our-workflow-so-far",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Our workflow so far…",
+    "text": "Our workflow so far…\n\nImportSelect & RenameFilterMutate\n\n\n\n# 2021 German federal election data (.csv)\n\nelection &lt;- readr::read_delim(\"w-btw21_kerg2.csv\", \n                       delim = \";\", \n                       escape_double = FALSE, \n                       locale = locale(decimal_mark = \",\"), \n                       trim_ws = TRUE, \n                       skip = 9)\n\nnames(election) # and/or dim(), head(), str(), ...\n\n [1] \"Wahlart\"            \"Wahltag\"            \"Gebietsart\"        \n [4] \"Gebietsnummer\"      \"Gebietsname\"        \"UegGebietsart\"     \n [7] \"UegGebietsnummer\"   \"Gruppenart\"         \"Gruppenname\"       \n[10] \"Gruppenreihenfolge\" \"Stimme\"             \"Anzahl\"            \n[13] \"Prozent\"            \"VorpAnzahl\"         \"VorpProzent\"       \n[16] \"DiffProzent\"        \"DiffProzentPkt\"     \"Bemerkung\"         \n\n\n\n\n\nelection &lt;- election %&gt;% \n  dplyr::select(area_no = Gebietsnummer,\n                area_type = Gebietsart,\n                area_name = Gebietsname,\n                group_type = Gruppenart,\n                group_name = Gruppenname,\n                vote = Stimme,\n                vote_share = Prozent)\n\nnames(election)\n\n[1] \"area_no\"    \"area_type\"  \"area_name\"  \"group_type\" \"group_name\"\n[6] \"vote\"       \"vote_share\"\n\n\n\n\n\n# keep vote shares of the AfD on the district level\nafd &lt;- election %&gt;% \n  filter(area_type == \"Wahlkreis\") %&gt;% \n  filter(group_name == \"AfD\")\n\n# we can achieve the same in one line\nafd &lt;- election %&gt;% \n  filter(area_type == \"Wahlkreis\" & group_name == \"AfD\")\n\n\n\n\n# calculate the difference between the first and second vote\nafd_diff &lt;- afd %&gt;%\n  pivot_wider(names_from = \"vote\", \n              values_from = \"vote_share\") %&gt;% \n  mutate(diff = `1` - `2`) %&gt;% \n  pivot_longer(cols = !c(area_no:group_name), \n               names_to = \"vote\", \n               values_to = \"vote_share\")"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#exkurs-reshape-data",
+    "href": "slides/week-04/06-tidy2.html#exkurs-reshape-data",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Exkurs: Reshape data",
+    "text": "Exkurs: Reshape data\n\nOverviewTo wideTo longCompared\n\n\n\n\n\n\nhead(gapminder_example)\n\n# A tibble: 6 × 3\n  country  year gdpPercap\n  &lt;fct&gt;   &lt;int&gt;     &lt;dbl&gt;\n1 France   1997    25890.\n2 France   2002    28926.\n3 France   2007    30470.\n4 Germany  1997    27789.\n5 Germany  2002    30036.\n6 Germany  2007    32170.\n\ngapminder_wide &lt;- gapminder_example %&gt;% \n  pivot_wider(names_from = year,\n              names_prefix = \"year_\",\n              values_from = gdpPercap)\n\n\n\n\nhead(gapminder_wide)\n\n# A tibble: 3 × 4\n  country        year_1997 year_2002 year_2007\n  &lt;fct&gt;              &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n1 France            25890.    28926.    30470.\n2 Germany           27789.    30036.    32170.\n3 United Kingdom    26075.    29479.    33203.\n\ngapminder_long &lt;- gapminder_wide %&gt;% \n  pivot_longer(cols = year_1997:year_2007,\n               names_to = \"year\",\n               names_prefix = \"_year\",\n               values_to = \"gdpPercap\")\n\n\n\n\nhead(gapminder_long)\n\n# A tibble: 6 × 3\n  country year      gdpPercap\n  &lt;fct&gt;   &lt;chr&gt;         &lt;dbl&gt;\n1 France  year_1997    25890.\n2 France  year_2002    28926.\n3 France  year_2007    30470.\n4 Germany year_1997    27789.\n5 Germany year_2002    30036.\n6 Germany year_2007    32170.\n\nhead(gapminder_wide)\n\n# A tibble: 3 × 4\n  country        year_1997 year_2002 year_2007\n  &lt;fct&gt;              &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt;\n1 France            25890.    28926.    30470.\n2 Germany           27789.    30036.    32170.\n3 United Kingdom    26075.    29479.    33203."
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#next-group-summarize",
+    "href": "slides/week-04/06-tidy2.html#next-group-summarize",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Next: Group & summarize",
+    "text": "Next: Group & summarize\nSo far:\n\nWe can generate new variables using mutate() keeping the structure of the data the same\n\nWith summarize():\n\nwe change the structure of our data frame;\nany computations using summarize() collapses rows to summary statistics (e.g., mean, standard deviation);\nand removes all variables irrelevant for computing the summary statistics."
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#example-summary-statistics---mutate",
+    "href": "slides/week-04/06-tidy2.html#example-summary-statistics---mutate",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Example: Summary statistics - mutate()",
+    "text": "Example: Summary statistics - mutate()\n\nafd_mean &lt;- afd %&gt;% \n  filter(vote == 2) %&gt;% \n  mutate(mean = mean(vote_share))\n\ndim(afd)\n\n[1] 598   7\n\ndim(afd_mean)\n\n[1] 299   8"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#summarize",
+    "href": "slides/week-04/06-tidy2.html#summarize",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Summarize()",
+    "text": "Summarize()\n\nafd_mean &lt;- afd %&gt;% \n  filter(vote == 2) %&gt;% \n  summarize(mean = mean(vote_share)) # option: \"na.rm = TRUE\"\n\nafd_mean\n\n# A tibble: 1 × 1\n   mean\n  &lt;dbl&gt;\n1  10.6"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#summarize-1",
+    "href": "slides/week-04/06-tidy2.html#summarize-1",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Summarize()",
+    "text": "Summarize()\n\nafd_statistics &lt;- afd %&gt;% \n  filter(vote == 2) %&gt;% \n  summarize(mean = mean(vote_share),      # option: \"na.rm = TRUE\"\n            median = median(vote_share),\n            minimum = min(vote_share),\n            maximum = max(vote_share),\n            sd = sd(vote_share)) \n\nafd_statistics\n\n# A tibble: 1 × 5\n   mean median minimum maximum    sd\n  &lt;dbl&gt;  &lt;dbl&gt;   &lt;dbl&gt;   &lt;dbl&gt; &lt;dbl&gt;\n1  10.6   8.86    2.87    32.5  5.88"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#group-and-summarize",
+    "href": "slides/week-04/06-tidy2.html#group-and-summarize",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Group and summarize",
+    "text": "Group and summarize\nWe can use group_by() to calculate summary statistics for different groups:\n\nstatistics_group &lt;- election %&gt;% \n  filter(area_type == \"Wahlkreis\") %&gt;% \n  filter(vote == 2) %&gt;% \n  filter(group_name %in% c(\"SPD\", \"CDU\")) %&gt;% \n  group_by(group_name) %&gt;%  # do not forget to ungroup()\n  summarize(mean = mean(vote_share,\n                        na.rm = TRUE))\n\nstatistics_group\n\n# A tibble: 2 × 2\n  group_name  mean\n  &lt;chr&gt;      &lt;dbl&gt;\n1 CDU         22.6\n2 SPD         25.9"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#join-data",
+    "href": "slides/week-04/06-tidy2.html#join-data",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Join data",
+    "text": "Join data\nIn applied research, we oftentimes need to combine multiple data sets (e.g., multiple survey waves, election statistics, …).\n\nWe can use bind_cols() if two (or more) data frames have different variables (columns) but same cases (rows).\nWe can use bind_rows() if two (or more) data frames have the same variables (columns) but different cases (rows).\n\nWe can also use join operators from the dplyr package. These allow us to combine data frames based on a (shared) key."
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#binding-columns",
+    "href": "slides/week-04/06-tidy2.html#binding-columns",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Binding columns",
+    "text": "Binding columns\n\nData 1Data 2bind_cols\n\n\n\n# Let's use our gapminder_example data\nhead(gapminder_example)\n\n# A tibble: 6 × 3\n  country  year gdpPercap\n  &lt;fct&gt;   &lt;int&gt;     &lt;dbl&gt;\n1 France   1997    25890.\n2 France   2002    28926.\n3 France   2007    30470.\n4 Germany  1997    27789.\n5 Germany  2002    30036.\n6 Germany  2007    32170.\n\n\n\n\n\n# and add this dataframe\nrandom &lt;- data.frame(r1 = c(1:9))\n\nrandom\n\n  r1\n1  1\n2  2\n3  3\n4  4\n5  5\n6  6\n7  7\n8  8\n9  9\n\n\n\n\n\n# now we can just join these two dataframes\nnew &lt;- bind_cols(gapminder_example, random)\n\nnew\n\n# A tibble: 9 × 4\n  country         year gdpPercap    r1\n  &lt;fct&gt;          &lt;int&gt;     &lt;dbl&gt; &lt;int&gt;\n1 France          1997    25890.     1\n2 France          2002    28926.     2\n3 France          2007    30470.     3\n4 Germany         1997    27789.     4\n5 Germany         2002    30036.     5\n6 Germany         2007    32170.     6\n7 United Kingdom  1997    26075.     7\n8 United Kingdom  2002    29479.     8\n9 United Kingdom  2007    33203.     9"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#binding-rows",
+    "href": "slides/week-04/06-tidy2.html#binding-rows",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Binding rows",
+    "text": "Binding rows\n\nData 1Data 2bind_rows\n\n\n\n# Let's use our gapminder_example data\nhead(gapminder_example)\n\n# A tibble: 6 × 3\n  country  year gdpPercap\n  &lt;fct&gt;   &lt;int&gt;     &lt;dbl&gt;\n1 France   1997    25890.\n2 France   2002    28926.\n3 France   2007    30470.\n4 Germany  1997    27789.\n5 Germany  2002    30036.\n6 Germany  2007    32170.\n\n\n\n\n\n# and add this dataframe\nmore_info &lt;- data.frame(country = \"Austria\",\n                        year = 2007,\n                        gdpPercap = NA)\n\nmore_info\n\n  country year gdpPercap\n1 Austria 2007        NA\n\n\n\n\n\n# now we can just join these two dataframes\ngapminder_added &lt;- bind_rows(gapminder_example, more_info)\n\ngapminder_added\n\n# A tibble: 10 × 3\n   country         year gdpPercap\n   &lt;chr&gt;          &lt;dbl&gt;     &lt;dbl&gt;\n 1 France          1997    25890.\n 2 France          2002    28926.\n 3 France          2007    30470.\n 4 Germany         1997    27789.\n 5 Germany         2002    30036.\n 6 Germany         2007    32170.\n 7 United Kingdom  1997    26075.\n 8 United Kingdom  2002    29479.\n 9 United Kingdom  2007    33203.\n10 Austria         2007       NA"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#join-data-frames-left_join",
+    "href": "slides/week-04/06-tidy2.html#join-data-frames-left_join",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Join data frames: left_join()",
+    "text": "Join data frames: left_join()\nOther joins: https://github.com/gadenbuie/tidyexplain"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#example-left_join",
+    "href": "slides/week-04/06-tidy2.html#example-left_join",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Example: left_join()",
+    "text": "Example: left_join()\n\nElectionStructuralJoin\n\n\n\nelection &lt;- readr::read_delim(\"w-btw21_kerg2.csv\", \n                       delim = \";\", escape_double = FALSE, \n                       locale = locale(decimal_mark = \",\"), \n                       trim_ws = TRUE, skip = 9) %&gt;% \n  dplyr::select(area_no = Gebietsnummer,\n                area_type = Gebietsart,\n                area_name = Gebietsname,\n                group_type = Gruppenart,\n                group_name = Gruppenname,\n                vote = Stimme,\n                vote_share = Prozent) %&gt;% \n  filter(area_type == \"Wahlkreis\" & group_name == \"AfD\" & vote == 2)\n\n\n\n\nstructural &lt;- readr::read_delim(\"btw21_strukturdaten.csv\", \n                                delim = \";\", escape_double = FALSE,\n                                locale = locale(decimal_mark = \",\"),\n                                trim_ws = TRUE, skip = 8) %&gt;% \n  dplyr::select(area_no = `Wahlkreis-Nr.`,\n                unemployment_rate = `Arbeitslosenquote Februar 2021 - insgesamt`) %&gt;% \n  filter(area_no &lt;= 299)\n\n\n\n\nelection_structural &lt;- election %&gt;% \n  left_join(structural, by = \"area_no\") %&gt;% \n  select(area_no, area_name, vote_share, unemployment_rate)\n\nhead(election_structural)\n\n# A tibble: 6 × 4\n  area_no area_name                         vote_share unemployment_rate\n  &lt;chr&gt;   &lt;chr&gt;                                  &lt;dbl&gt;             &lt;dbl&gt;\n1 001     Flensburg – Schleswig                   5.78               7  \n2 002     Nordfriesland – Dithmarschen Nord       6.10               6.5\n3 003     Steinburg – Dithmarschen Süd            8.37               6.4\n4 004     Rendsburg-Eckernförde                   6.56               4.8\n5 005     Kiel                                    4.94               8.4\n6 006     Plön – Neumünster                       7.35               6.7"
+  },
+  {
+    "objectID": "slides/week-04/06-tidy2.html#save-your-data",
+    "href": "slides/week-04/06-tidy2.html#save-your-data",
+    "title": "Tidyverse II: Import, tidy, and transform",
+    "section": "Save your data",
+    "text": "Save your data\nWe can easily save our data frame:\n\nsave(election_structural,\n     file=\"election_structural.Rda\")\n\nAnd load it again:\n\n# make sure that you are in the right working directory!\n# Session -&gt; Set working directory\nload(\"election_structural.Rda\")"
   }
 ]
