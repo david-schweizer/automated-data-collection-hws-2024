@@ -864,5 +864,3 @@ ggplot(data = constituency_shapes_vote,
 [![](sf.jpg)](https://github.com/rstudio/cheatsheets/blob/main/sf.pdf)
 
 # Your turn!
-
-# TBA

@@ -7,7 +7,7 @@ date: "Oct 24, 2024"
 listing:
   - id: slides
     contents:
-      - ../slides/week-08/*.qmd
+      - ../slides/week-06/*.qmd
     type: table
     fields: [title, subtitle, date]
     #date-format: "ddd, MMM DD"
