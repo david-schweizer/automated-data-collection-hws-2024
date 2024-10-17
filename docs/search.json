@@ -28,7 +28,7 @@
     "href": "material.html",
     "title": "Schedule, slides & materials",
     "section": "",
-    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize & Quarto\n\n\nOctober 17, 2024\n\n\n\n\n\nNo matching items",
+    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto & Version control (Github)\n\n\nOctober 24, 2024\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule, slides & materials"
     ]
@@ -183,7 +183,7 @@
     "href": "syllabus.html#course-schedule",
     "title": "Syllabus",
     "section": "Course Schedule",
-    "text": "Course Schedule\nThe schedule is preliminary. Structure and/or content might change during the semester. You will find the readings, materials, and slides for each week on the course website (see Schedule, slides & materials).\nIntro\nWeek 01 - 05.09.2024 - Intro Session\nBlock I: Import, Tidy, & Transform Data\nWeek 02 - 12.09.2024 - Intro to R\nWeek 03 - 19.09.2024 - Tidyverse I: Import, tidy, and transform\nWeek 04 - 26.09.2024 - No Session\nWeek 05 - 03.10.2024 - No Session, Public Holiday\nWeek 06 - 10.10.2024 - Tidyverse II: Import, tidy, and transform\nBlock II: Visualize, Communicate & Collaborate\nWeek 07 - 17.10.2024 - ggplot: Visualize & Quarto\nWeek 08 - 24.10.2024 - Version control (Github)\nBlock III: Web scraping\nWeek 09 - 31.10.2024 - Web scraping basics\nWeek 10 - 07.11.2024 - Web scraping static\nWeek 11 - 14.11.2024 - Web scraping dynamic\nBlock II: Communicate Interactively\nWeek 12 - 21.11.2024 - Interactive I: Create your first Shiny app\nWeek 13 - 28.11.2024 - Interactive II: Making pretty Shiny apps app\nClosing\nWeek 14 - 05.12.2024 - Closing Session: Presentations",
+    "text": "Course Schedule\nThe schedule is preliminary. Structure and/or content might change during the semester. You will find the readings, materials, and slides for each week on the course website (see Schedule, slides & materials).\nIntro\nWeek 01 - 05.09.2024 - Intro Session\nBlock I: Import, Tidy, & Transform Data\nWeek 02 - 12.09.2024 - Intro to R\nWeek 03 - 19.09.2024 - Tidyverse I: Import, tidy, and transform\nWeek 04 - 26.09.2024 - No Session\nWeek 05 - 03.10.2024 - No Session, Public Holiday\nWeek 06 - 10.10.2024 - Tidyverse II: Import, tidy, and transform\nBlock II: Visualize, Communicate & Collaborate\nWeek 07 - 17.10.2024 - ggplot: Visualize\nWeek 08 - 24.10.2024 - Quarto & Version control (Github)\nBlock III: Web scraping\nWeek 09 - 31.10.2024 - Web scraping basics\nWeek 10 - 07.11.2024 - Web scraping static\nWeek 11 - 14.11.2024 - Web scraping dynamic\nBlock II: Communicate Interactively\nWeek 12 - 21.11.2024 - Interactive I: Create your first Shiny app\nWeek 13 - 28.11.2024 - Interactive II: Making pretty Shiny apps app\nClosing\nWeek 14 - 05.12.2024 - Closing Session: Presentations",
     "crumbs": [
       "Syllabus"
     ]
@@ -226,9 +226,9 @@
   {
     "objectID": "weeks/week-07.html",
     "href": "weeks/week-07.html",
-    "title": "ggplot: Visualize & Quarto",
+    "title": "ggplot: Visualize",
     "section": "",
-    "text": "To Do’s before our session\n\nHave a look at Chapter 1: Visualize.\nThink: What visualizations might be appropriate for your data?\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nggplot: Visualize & Quarto\n\n\nWeek 7\n\n\nOct 17, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA\nFurther, you can find free and great resources on data visualization here:\n\nFundamentals of Data Visualization\nData Visualization: A Practical Introduction\nCedric Scherer Blog\nThe R Graph Gallery"
+    "text": "To Do’s before our session\n\nHave a look at Chapter 1: Visualize.\nThink: What visualizations might be appropriate for your data?\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nggplot: Visualize & Quarto\n\n\nWeek 7\n\n\nOct 17, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou download the exercise here and find the relevant data in the folder Session 07 in ILIAS (see “Dateien”).\nFurther, you can find free and great resources on data visualization here:\n\nFundamentals of Data Visualization\nData Visualization: A Practical Introduction\nCedric Scherer Blog\nThe R Graph Gallery"
   },
   {
     "objectID": "weeks/week-09.html",
@@ -366,9 +366,9 @@
   {
     "objectID": "weeks/week-08.html",
     "href": "weeks/week-08.html",
-    "title": "APIs",
+    "title": "Quarto & Version control (Github)",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nAPIs\n\n\nWeek 10\n\n\nApr 16, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find the Quarto document for today’s session here.\n\n\nTo Do’s before our session\n\nWork on the second assignment. The deadline is 16.04.2024 15:00. You can download the assignment on ILIAS.\nHave a look at APIs for social scientists: A collaborative review. Is one of the mentioned API’s particularly interesting for you? Do you know of any other APIs (also wrapped in R packages) that are relevant for political science?"
+    "text": "To Do’s before our session\n\nWork on the second assignment. The deadline is 31.10.2024 15:15. You can download the assignment on ILIAS.\nStart to think seriously about your data project that is first of all, what topic do you want to work on? Do others want to work on the same topic? You can still form groups!\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nAPIs\n\n\nWeek 10\n\n\nApr 16, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA"
   },
   {
     "objectID": "slides/week-02/02-ScienceOfClimateChange.html#social-and-economic-impacts-of-climate",
@@ -3193,21 +3193,21 @@
   {
     "objectID": "slides/week-05/05-Themes.html#plan-for-today",
     "href": "slides/week-05/05-Themes.html#plan-for-today",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Plan for today",
     "text": "Plan for today\nInput:\n\nWhy do we need visualizations? What makes a great visualization?\nBuilding a (gg)plot step by step\nMaps\n\nCoding:\n\nYour very first plot or take it to the next level"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#crap-and-ggplot",
     "href": "slides/week-05/05-Themes.html#crap-and-ggplot",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "CRAP and ggplot?",
     "text": "CRAP and ggplot?\n\n\nContrast, Repetition, Alignment, Proximity\nFollowing CRAP principles makes it easy to improve our plots!\nWe can apply these principles in ggplot using the theme() function\nYou can find great examples in Wilke’s book in chapter 17-22: Part II: Principles of Figure Design"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#crap",
     "href": "slides/week-05/05-Themes.html#crap",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "CRAP",
     "text": "CRAP\n\n\n\nContrast\nRepetition\nAlignment\nProximity\n\nThese design principles apply in all areas of life: Art, architecture, …, and graphs."
   },
@@ -3235,28 +3235,28 @@
   {
     "objectID": "slides/week-05/05-Themes.html#themes",
     "href": "slides/week-05/05-Themes.html#themes",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Themes",
     "text": "Themes\nMake use of existing themes:\n\nhrbrthemes\nggthemes\n…\n\nThere are many more! And you can even create your own theme!"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#hrbrthemes",
     "href": "slides/week-05/05-Themes.html#hrbrthemes",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "hrbrthemes",
     "text": "hrbrthemes\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, y = lifeExp, color = continent)) +\n  geom_point() +\n  hrbrthemes::theme_ipsum_ps()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#hrbrthemes-1",
     "href": "slides/week-05/05-Themes.html#hrbrthemes-1",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "hrbrthemes",
     "text": "hrbrthemes\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, y = lifeExp, color = continent)) +\n  geom_point() +\n  hrbrthemes::theme_modern_rc()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#ggthemes",
     "href": "slides/week-05/05-Themes.html#ggthemes",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "ggthemes",
     "text": "ggthemes\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, y = lifeExp, color = continent)) +\n  geom_point() +\n  ggthemes::theme_economist()"
   },
@@ -3284,14 +3284,14 @@
   {
     "objectID": "slides/week-05/05-Themes.html#theme",
     "href": "slides/week-05/05-Themes.html#theme",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "theme()",
     "text": "theme()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#how-to-learn-theme-arguments",
     "href": "slides/week-05/05-Themes.html#how-to-learn-theme-arguments",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "How to learn theme() arguments?",
     "text": "How to learn theme() arguments?\n\nThere are 94 possible arguments for the theme() function\nMany of them are very specific. E.g., axis.ticks.length.x.top\nBest way: Trial and error. Practice makes (almost) perfect\nTry the ggThemeAssist package\nDocumentation: Modify components of a theme and ggplot complete themes"
   },
@@ -5303,126 +5303,126 @@
   {
     "objectID": "slides/week-05/05-Themes.html#look-at-your-data",
     "href": "slides/week-05/05-Themes.html#look-at-your-data",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Look at your data!",
     "text": "Look at your data!\n\nThe dataSummary statisticsVisual inspection\n\n\n\n# Have a look at the first 10 data points:\nhead(data, n = 10)\n\n        V1      V2\n1  55.3846 97.1795\n2  51.5385 96.0256\n3  46.1538 94.4872\n4  42.8205 91.4103\n5  40.7692 88.3333\n6  38.7179 84.8718\n7  35.6410 79.8718\n8  33.0769 77.5641\n9  28.9744 74.4872\n10 26.1538 71.4103\n\n\nFor a deep dive, have a look at this blog post by Autodesk, this post by Alberto Cairo, or this R package.\n\n\n\n# Inspect mean of V1\nmean(data$V1)\n\n[1] 54.26327\n\n# Inspect mean of V2\nmean(data$V2)\n\n[1] 47.83225\n\n# Inspect the correlation between V1 and V2\ncor(data$V1, data$V2)\n\n[1] -0.06447185"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#the-datasaurus-dozen",
     "href": "slides/week-05/05-Themes.html#the-datasaurus-dozen",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "The datasaurus dozen",
     "text": "The datasaurus dozen"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#what-makes-a-great-visualization",
     "href": "slides/week-05/05-Themes.html#what-makes-a-great-visualization",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "What makes a great visualization?",
     "text": "What makes a great visualization?\nFive qualities of a great visualization according to Cairo:\n\n\nTruthful - Based on thorough and honest research\n\n\n\n\nFunctional - Accurate depiction of the data\n\n\n\n\nBeautiful - Aesthetically pleasing for its intended audience\n\n\n\n\nInsightful - Communicate new evidence\n\n\n\n\nEnlightening - Change your audience’s mind"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#what-makes-a-great-visualization-1",
     "href": "slides/week-05/05-Themes.html#what-makes-a-great-visualization-1",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "What makes a great visualization?",
     "text": "What makes a great visualization?\nQualities of a great visualization according to Hiely:\n\nAestheticsSubstancePerceptionHonesty"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#how-about-this",
     "href": "slides/week-05/05-Themes.html#how-about-this",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "How about this?",
     "text": "How about this?"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#and-this",
     "href": "slides/week-05/05-Themes.html#and-this",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "And this?",
     "text": "And this?"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#what-makes-a-great-visualization-2",
     "href": "slides/week-05/05-Themes.html#what-makes-a-great-visualization-2",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "What makes a great visualization?",
     "text": "What makes a great visualization?\nGraphical excellence is the well-designed presentation of interesting data—a matter of substance, of statistics, and of design … [It] consists of complex ideas communicated with clarity, precision, and efficiency. … [It] is that which gives to the viewer the greatest number of ideas in the shortest time with the least ink in the smallest space … [It] is nearly always multivariate … And graphical excellence requires telling the truth about the data. \n\nEdward Tufte (1983). The Visual Display of Quantitative Information, p. 51."
   },
   {
     "objectID": "slides/week-05/05-Themes.html#maximize-data-ink-ratio",
     "href": "slides/week-05/05-Themes.html#maximize-data-ink-ratio",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Maximize Data-Ink Ratio",
     "text": "Maximize Data-Ink Ratio\n\nBray, Tim. http://www.tbray.org/ongoing/data-ink/di1"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#remove-grid",
     "href": "slides/week-05/05-Themes.html#remove-grid",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Remove Grid",
     "text": "Remove Grid\n\nBray, Tim. http://www.tbray.org/ongoing/data-ink/di2"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#remove-background",
     "href": "slides/week-05/05-Themes.html#remove-background",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Remove Background",
     "text": "Remove Background\n\nBray, Tim. http://www.tbray.org/ongoing/data-ink/di3"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#remove-box",
     "href": "slides/week-05/05-Themes.html#remove-box",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Remove Box",
     "text": "Remove Box\n\nBray, Tim. http://www.tbray.org/ongoing/data-ink/di4"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#add-horizontal-line",
     "href": "slides/week-05/05-Themes.html#add-horizontal-line",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Add horizontal “line”",
     "text": "Add horizontal “line”\n\nBray, Tim. http://www.tbray.org/ongoing/data-ink/di5"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#remove-axis-line-and-ticks",
     "href": "slides/week-05/05-Themes.html#remove-axis-line-and-ticks",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Remove axis line and ticks",
     "text": "Remove axis line and ticks\n\nBray, Tim. http://www.tbray.org/ongoing/data-ink/di6"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#design-prinicples",
     "href": "slides/week-05/05-Themes.html#design-prinicples",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Design prinicples",
     "text": "Design prinicples\nWhy would we care about design principles? What is our goal?\n\n\nCommunicating our data in different forms to specific audiences.\nFollowing design principles, we can fulfill the criteria of great visualizations."
   },
   {
     "objectID": "slides/week-05/05-Themes.html#contrast",
     "href": "slides/week-05/05-Themes.html#contrast",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Contrast",
     "text": "Contrast\n\n\nWe want to contrast various elements to get a reader’s attention.\n\nIt creates a hierarchy among different elements of your graph making it more interesting.\nHowever, contrast must be strong!"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#repetition",
     "href": "slides/week-05/05-Themes.html#repetition",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Repetition",
     "text": "Repetition\n\n\nWe want to repeat design aspects throughout the graph for consistency.\n\nElements might include bullet points, typefaces, lines, colors, …\nRepetition makes it easier for a reader to recognize patterns and capture the graph’s message."
   },
   {
     "objectID": "slides/week-05/05-Themes.html#alignment",
     "href": "slides/week-05/05-Themes.html#alignment",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Alignment",
     "text": "Alignment\n\n\nWe want to align the elements of our graph.\n\nTo keep our graph consistent, align every object with an edge of any other object.\nStrong alignments allow you to break them occasionally to make a point without making it look like a mistake."
   },
   {
     "objectID": "slides/week-05/05-Themes.html#proximity",
     "href": "slides/week-05/05-Themes.html#proximity",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Proximity",
     "text": "Proximity\n\n\nWe want to group together related elements of our graph.\n\nGroup elements into closer proximity if they are related.\nSeparate elements that are not directly related.\nVary space between groups and elements."
   },
@@ -5450,14 +5450,14 @@
   {
     "objectID": "slides/week-05/05-Themes.html#grammatical-layers",
     "href": "slides/week-05/05-Themes.html#grammatical-layers",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Grammatical Layers",
     "text": "Grammatical Layers\n\nFoundationalCodeAdditional\n\n\n\n\n\n\nggplot(data = gapminder,\n       mapping = aes(x = gdpPercap,\n                           y = lifeExp,\n                           color = continent)) +\n  geom_point()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#building-a-ggplot-step-by-step",
     "href": "slides/week-05/05-Themes.html#building-a-ggplot-step-by-step",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Building a ggplot step-by-step",
     "text": "Building a ggplot step-by-step\n\nPackagesCodePlot\n\n\nPackages to reproduce the plots:\n\n# library(tidyverse)\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(gapminder)\n\n\n\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, \n      y = lifeExp,\n  color = continent))"
   },
@@ -5541,91 +5541,91 @@
   {
     "objectID": "slides/week-05/05-Themes.html#adding-a-geometry-geom_point",
     "href": "slides/week-05/05-Themes.html#adding-a-geometry-geom_point",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Adding a geometry: geom_point()",
     "text": "Adding a geometry: geom_point()\n\nCodePlot\n\n\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, \n      y = lifeExp,\n  color = continent)) +\n  geom_point()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#adding-a-scale",
     "href": "slides/week-05/05-Themes.html#adding-a-scale",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Adding a scale",
     "text": "Adding a scale\n\nCodePlot\n\n\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, y = lifeExp,\n  color = continent)) +\n  geom_point() +\n  scale_x_log10()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#adding-further-geometries",
     "href": "slides/week-05/05-Themes.html#adding-further-geometries",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Adding further geometries",
     "text": "Adding further geometries\n\nCodePlot\n\n\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, y = lifeExp,\n  color = continent)) +\n  geom_point() +\n  scale_x_log10() +\n  geom_smooth(method = \"lm\")"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#add-different-color-scale",
     "href": "slides/week-05/05-Themes.html#add-different-color-scale",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Add different color scale",
     "text": "Add different color scale\n\nCodePlot\n\n\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, \n      y = lifeExp,\n  color = continent)) +\n  geom_point() +\n  scale_x_log10() +\n  geom_smooth(method = \"lm\") +\n  scale_color_viridis_d()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#use-facets",
     "href": "slides/week-05/05-Themes.html#use-facets",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Use facets",
     "text": "Use facets\n\nCodePlot\n\n\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, \n      y = lifeExp,\n  color = continent)) +\n  geom_point() +\n  scale_x_log10() +\n  geom_smooth(method = \"lm\") +\n  scale_color_viridis_d() +\n  facet_wrap(vars(continent), ncol = 2)"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#add-titles-subtitles-etc.",
     "href": "slides/week-05/05-Themes.html#add-titles-subtitles-etc.",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Add titles, subtitles, etc.",
     "text": "Add titles, subtitles, etc.\n\nCodePlot\n\n\n\nggplot(data = gapminder %&gt;% filter(year==2007),\n  aes(x = gdpPercap, \n      y = lifeExp,\n  color = continent)) +\n  geom_point() +\n  scale_x_log10() +\n  geom_smooth(method = \"lm\") +\n  scale_color_viridis_d() +\n  facet_wrap(vars(continent), ncol = 2) +\n  labs(x = \"GDP per capita\", \n       y = \"Life expectancy\",\n       color = \"Continent\",\n       title = \"Wealth = Health?\",\n       subtitle = \"gdpPercap/lifeExp\",\n       caption = \"Gapminder dataset\")"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#more-geometries",
     "href": "slides/week-05/05-Themes.html#more-geometries",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "More geometries",
     "text": "More geometries\n\nCodePlot\n\n\n\nggplot(data = filter(gapminder, year %in% c(2007)),\naes(x = lifeExp,\nfill = continent)) +\ngeom_histogram(binwidth = 5,\n               color = \"grey\") +\nscale_fill_viridis_d() +\nfacet_wrap(vars(continent), ncol = 2) +\nguides(fill = \"none\")"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#more-geometries-1",
     "href": "slides/week-05/05-Themes.html#more-geometries-1",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "More geometries",
     "text": "More geometries\n\nCodePlot\n\n\n\ncolors &lt;- c(\"red\", \"orange\", \"yellow\", \"green\", \"blue\")\n\nggplot(data = filter(gapminder, year %in% c(2007)),\n  aes(x = continent,\n      y = lifeExp,\n      fill = continent)) +\n  geom_boxplot(alpha = 0.5) +\n  scale_fill_manual(values = colors) +\n  guides(fill = \"none\")"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#more-geometries-2",
     "href": "slides/week-05/05-Themes.html#more-geometries-2",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "More geometries",
     "text": "More geometries\n\nCodePlot\n\n\n\nggplot(gapminder, aes(x = year, \n                      y = lifeExp,\n                      group = country)) +\n  geom_line(alpha = 0.2, color=\"grey\") +\n  geom_line(data = gapminder %&gt;% filter(country %in% c(\n    \"Germany\",\n    \"India\",\n    \"Rwanda\")),\n    lwd = 1) + # thicker line"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#ways-to-visualize-data-with-maps",
     "href": "slides/week-05/05-Themes.html#ways-to-visualize-data-with-maps",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Ways to visualize data with maps",
     "text": "Ways to visualize data with maps\nThere are multiple ways to encode data on maps:\n\npoints\nlines\nareas\nshapes\n…"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#maps-points",
     "href": "slides/week-05/05-Themes.html#maps-points",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Maps + points",
     "text": "Maps + points"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#maps-proportional-symbols",
     "href": "slides/week-05/05-Themes.html#maps-proportional-symbols",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Maps + proportional symbols",
     "text": "Maps + proportional symbols"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#maps-lines",
     "href": "slides/week-05/05-Themes.html#maps-lines",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Maps + lines",
     "text": "Maps + lines"
   },
@@ -5639,7 +5639,7 @@
   {
     "objectID": "slides/week-05/05-Themes.html#choropleth-maps",
     "href": "slides/week-05/05-Themes.html#choropleth-maps",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Choropleth maps",
     "text": "Choropleth maps"
   },
@@ -5660,28 +5660,28 @@
   {
     "objectID": "slides/week-05/05-Themes.html#shapefiles-1",
     "href": "slides/week-05/05-Themes.html#shapefiles-1",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Shapefiles",
     "text": "Shapefiles\n\nIn generalStructureFinding shapefiles\n\n\n\n\n\nGeographic information is shared as shapefiles\nThey are not the same as regular CSV files\nNormally, you download them as zipped files (the .shp ending indicates the relevant file)\n\n\n\n\n\n\n\n\nlibrary(sf)\nconstituency_shapes &lt;- read_sf(\"btw17_geometrie_wahlkreise_geo_shp/Geometrie_Wahlkreise_19DBT_geo.shp\")\nconstituency_shapes\n\nSimple feature collection with 299 features and 4 fields\nGeometry type: MULTIPOLYGON\nDimension:     XY\nBounding box:  xmin: 5.866479 ymin: 47.27011 xmax: 15.03828 ymax: 55.05838\nGeodetic CRS:  WGS 84\n# A tibble: 299 × 5\n   WKR_NR LAND_NR LAND_NAME          WKR_NAME                           geometry\n    &lt;dbl&gt; &lt;chr&gt;   &lt;chr&gt;              &lt;chr&gt;                    &lt;MULTIPOLYGON [°]&gt;\n 1      1 01      Schleswig-Holstein Flensburg – Schl… (((9.676908 54.83785, 9.…\n 2      2 01      Schleswig-Holstein Nordfriesland – … (((8.630545 54.48889, 8.…\n 3      3 01      Schleswig-Holstein Steinburg – Dith… (((8.689466 54.0485, 8.6…\n 4      4 01      Schleswig-Holstein Rendsburg-Eckern… (((9.961349 54.50129, 9.…\n 5      5 01      Schleswig-Holstein Kiel              (((10.18877 54.41108, 10…\n 6      6 01      Schleswig-Holstein Plön – Neumünster (((10.64299 54.34371, 10…\n 7      7 01      Schleswig-Holstein Pinneberg         (((9.751445 53.89304, 9.…\n 8      8 01      Schleswig-Holstein Segeberg – Storm… (((10.37568 54.07279, 10…\n 9      9 01      Schleswig-Holstein Ostholstein – St… (((11.11089 54.39639, 11…\n10     10 01      Schleswig-Holstein Herzogtum Lauenb… (((10.86189 53.70238, 10…\n# ℹ 289 more rows\n\n\n\n\n\nNatural Earth for international maps\nUS Census Bureau for US maps\nEurostat for EU maps\nGOOGLE: shapefiles for …\n\ne.g., shapefiles for german election districts"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#geometry-column-geom_sf",
     "href": "slides/week-05/05-Themes.html#geometry-column-geom_sf",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Geometry column & geom_sf()",
     "text": "Geometry column & geom_sf()\n\nCodePlot - 2017 constituencies\n\n\nIf we have a geometry column, all we need to do is use geom_sf():\n\nggplot(data = constituency_shapes) +\n  geom_sf()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#making-a-choropleth-map",
     "href": "slides/week-05/05-Themes.html#making-a-choropleth-map",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "Making a choropleth map",
     "text": "Making a choropleth map\n\nAnd now?CodePlot\n\n\n\nFrom here, it is easy to create a choropleth map.\nWe just have to add data to our constituency_shapes dataframe.\n\nRemember the election and structural data from the German federal election officer?\n\nAnd we can use all typical ggplot functions!\n\n\n\n\nconstituency_shapes_vote &lt;- constituency_shapes %&gt;% \n  # here, we can use our \"btw17_election\" data from earlier sessions!\n  left_join(btw17_election, by = c(\"WKR_NR\" = \"constituency_number\")) %&gt;% \n  filter(party == \"AfD\")\n\nggplot(data = constituency_shapes_vote,\n       aes(fill = vote_share)) +  \n  geom_sf() + \n  scale_fill_gradient(low = \"lightblue\", high = \"darkblue\") +\n  labs(fill = \"AfD vote share\") +\n  theme_void()"
   },
   {
     "objectID": "slides/week-05/05-Themes.html#but-sf-is-more-than-drawing-maps",
     "href": "slides/week-05/05-Themes.html#but-sf-is-more-than-drawing-maps",
-    "title": "ggplot: Visualize",
+    "title": "ggplot: Visualize & Quarto",
     "section": "But sf is more than drawing maps",
     "text": "But sf is more than drawing maps"
   },

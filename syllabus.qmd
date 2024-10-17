@@ -276,9 +276,9 @@ Week 06 - 10.10.2024 - Tidyverse II: Import, tidy, and transform
 
 **Block II: Visualize, Communicate & Collaborate**
 
-Week 07 - 17.10.2024 - ggplot: Visualize & Quarto
+Week 07 - 17.10.2024 - ggplot: Visualize
 
-Week 08 - 24.10.2024 - Version control (Github)
+Week 08 - 24.10.2024 - Quarto & Version control (Github)
 
 **Block III: Web scraping**
 

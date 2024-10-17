@@ -1,5 +1,5 @@
 ---
-title: "ggplot: Visualize & Quarto"
+title: "ggplot: Visualize"
 subtitle: "Week 07"
 description: ""
 author: ""
@@ -48,7 +48,7 @@ tbl-colwidths: [10,50,40]
 
 # Materials
 
-TBA
+You download the exercise [here](https://ilias.uni-mannheim.de/goto.php?target=file_1568492_download&client_id=ILIAS) and find the relevant data in the folder Session 07 in ILIAS (see "Dateien").
 
 **Further, you can find free and great resources on data visualization here:**
 

@@ -1,9 +1,9 @@
 ---
-title: "APIs"
-subtitle: "Week 10"
+title: "Quarto & Version control (Github)"
+subtitle: "Week 08"
 description: ""
 author: ""
-date: "Apr 16, 2024"
+date: "Oct 24, 2024"
 listing:
   - id: slides
     contents:
@@ -34,6 +34,10 @@ listing:
   #   filter-ui: false
 tbl-colwidths: [10,50,40]
 ---
+# To Do's before our session
+
+-   Work on the **second assignment**. The **deadline is 31.10.2024 15:15**. You can download the assignment on ILIAS.
+-   Start to think seriously about your data project that is first of all, what topic do you want to work on? Do others want to work on the same topic? You can still form groups!
 
 # Seminar slides
 
@@ -42,9 +46,5 @@ tbl-colwidths: [10,50,40]
 
 # Materials
 
-You can find the Quarto document for today's session [**here**](https://ilias.uni-mannheim.de/goto.php?target=file_1509080_download&client_id=ILIAS).
+TBA
 
-# To Do's before our session
-
--   Work on the **second assignment**. The **deadline is 16.04.2024 15:00**. You can download the assignment on ILIAS.
--   Have a look at [**APIs for social scientists: A collaborative review**](https://bookdown.org/paul/apis_for_social_scientists/). Is one of the mentioned API's particularly interesting for you? Do you know of any other APIs (also wrapped in R packages) that are relevant for political science?

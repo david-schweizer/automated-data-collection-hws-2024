@@ -1,8 +1,8 @@
 ---
-title: "Tidyverse II: Import, tidy, and transform"
-subtitle: "Week 6"
+title: "Quarto & Version control (Github)"
+subtitle: "Week 8"
 author: "David Schweizer"
-date: "October 10, 2024"
+date: "October 24, 2024"
 date-format: long
 institute: "University of Mannheim"
 format: 
