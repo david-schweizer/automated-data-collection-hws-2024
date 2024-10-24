@@ -28,7 +28,7 @@
     "href": "material.html",
     "title": "Schedule, slides & materials",
     "section": "",
-    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto & Version control (Github)\n\n\nOctober 24, 2024\n\n\n\n\n\nNo matching items",
+    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto\n\n\nOctober 24, 2024\n\n\n\n\nWeek 09\n\n\nWeb scraping basics\n\n\nOctober 31, 2024\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule, slides & materials"
     ]
@@ -235,7 +235,7 @@
     "href": "weeks/week-09.html",
     "title": "Web scraping basics",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nWeb scraping basics\n\n\nWeek 11\n\n\nApr 23, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nThere are no extra materials for this week.\n\n\nTo Do’s before our session\nRead Chapter 24.1 - 24.5 in R for Data Science. Do you have already a website in mind that you might want to scrape? Think about possible websites and let me know on Slack or via e-mail!"
+    "text": "To Do’s before our session\nDo you now have already a website in mind that you might want to scrape? Think about possible websites and let me know via ILIAS or via e-mail!\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nWeb scraping basics\n\n\nWeek 9\n\n\nOct 31, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nThere are no extra materials for this week."
   },
   {
     "objectID": "weeks/week-10.html",
@@ -366,9 +366,9 @@
   {
     "objectID": "weeks/week-08.html",
     "href": "weeks/week-08.html",
-    "title": "Quarto & Version control (Github)",
+    "title": "Quarto",
     "section": "",
-    "text": "To Do’s before our session\n\nWork on the second assignment. The deadline is 31.10.2024 15:15. You can download the assignment on ILIAS.\nStart to think seriously about your data project that is first of all, what topic do you want to work on? Do others want to work on the same topic? You can still form groups!\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nQuarto & Version control (Github)\n\n\nWeek 8\n\n\nOct 24, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA"
+    "text": "To Do’s before our session\n\nWork on the second assignment. The deadline is 31.10.2024 15:15. You can download the assignment on ILIAS.\nStart to think seriously about your data project that is first of all, what topic do you want to work on? Do others want to work on the same topic? You can still form groups!\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nQuarto\n\n\nWeek 8\n\n\nOct 24, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nThere are no extra materials for today."
   },
   {
     "objectID": "slides/week-02/02-ScienceOfClimateChange.html#social-and-economic-impacts-of-climate",
@@ -8022,5 +8022,194 @@
     "title": "Tidyverse II: Import, tidy, and transform",
     "section": "Save your data",
     "text": "Save your data\nWe can easily save our data frame:\n\nsave(election_structural,\n     file=\"election_structural.Rda\")\n\nAnd load it again:\n\n# make sure that you are in the right working directory!\n# Session -&gt; Set working directory\nload(\"election_structural.Rda\")"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#plan-for-today-1",
+    "href": "slides/week-06/06-Uncertainty.html#plan-for-today-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Plan for today",
+    "text": "Plan for today\nInput\n\nReproducibility, R Markdown & Quarto\n\nCoding Session\n\nDrafting your first Quarto documents"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#reproducibility-why-r-1",
+    "href": "slides/week-06/06-Uncertainty.html#reproducibility-why-r-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Reproducibility ⟶ Why R?",
+    "text": "Reproducibility ⟶ Why R?\n… and not just Excel? R …\n\n… can deal with more data faster.\n… is open-source and free.\n… allows us to reproduce results and understand data processing steps."
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#but-what-could-go-wrong-1",
+    "href": "slides/week-06/06-Uncertainty.html#but-what-could-go-wrong-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "But what could go wrong?",
+    "text": "But what could go wrong?"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#a-lot-1",
+    "href": "slides/week-06/06-Uncertainty.html#a-lot-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "… a lot!",
+    "text": "… a lot!"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#and-there-is-more-1",
+    "href": "slides/week-06/06-Uncertainty.html#and-there-is-more-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "… and there is more …",
+    "text": "… and there is more …\n\n\nResult: Economic growth slows when a country’s debt is higher than 90% of GDP\nImplication: e.g., cited by Republican Paul Ryan in his proposed 2013 budget: The Path to Prosperity: A Blueprint for American Renewal"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#wrong-basis-for-policy-decisions-1",
+    "href": "slides/week-06/06-Uncertainty.html#wrong-basis-for-policy-decisions-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "… wrong basis for policy decisions",
+    "text": "… wrong basis for policy decisions"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#how-can-we-avoid-this-1",
+    "href": "slides/week-06/06-Uncertainty.html#how-can-we-avoid-this-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "How can we avoid this?",
+    "text": "How can we avoid this?\n\nDo not change the raw data!\n\nIf there is no other way, document and explain what you did extensively.\n\nUse open formats\n\ne.g., .csv and not .xlsx\n\nUse reproducible code\n\nR Markdown & Quarto"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#r-markdown-1",
+    "href": "slides/week-06/06-Uncertainty.html#r-markdown-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "R Markdown",
+    "text": "R Markdown\nR Markdown provides an unified authoring framework for data science, combining your code, its results, and your prose commentary. R Markdown documents are fully reproducible and support dozens of output formats, like PDFs, Word files, slideshows, and more.\nR for Data Science"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#why-should-we-use-r-markdown-1",
+    "href": "slides/week-06/06-Uncertainty.html#why-should-we-use-r-markdown-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Why should we use R Markdown?",
+    "text": "Why should we use R Markdown?\n\nCommunication of our analysis with a focus on conclusions and not on the code.\nCollaboration with other researchers who want to understand your data analysis and your code.\nAnnotation of the codes and thoughts regarding the coding and data analysis can be stored in the same document.\n\nR for Data Science"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#r-markdown---airbnb-1",
+    "href": "slides/week-06/06-Uncertainty.html#r-markdown---airbnb-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "R Markdown - AirBnb",
+    "text": "R Markdown - AirBnb"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#r-markdown---uk-government-1",
+    "href": "slides/week-06/06-Uncertainty.html#r-markdown---uk-government-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "R Markdown - UK Government",
+    "text": "R Markdown - UK Government\nFormerly, a typical statistics production process in government agencies in the UK:\n\n\nProne to errors & time-consuming ⟶ Development to a reproducible analytical pipeline:"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#moving-to-quarto-1",
+    "href": "slides/week-06/06-Uncertainty.html#moving-to-quarto-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Moving to Quarto",
+    "text": "Moving to Quarto\n\nQuarto is not an R package as R Markdown, but an command line interface tool.\nIt gives you the same functionality as R Markdown as well as other packages.\nIt extends R Markdown through native support for other programming languages such as Python.\nThe “new” way to produce articles & reports, presentations, interactive documents, websites or books.\n\nR for Data Science"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-5",
+    "href": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-5",
+    "title": "Quarto & Version control (Github)",
+    "section": "Create a Quarto Document",
+    "text": "Create a Quarto Document"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-6",
+    "href": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-6",
+    "title": "Quarto & Version control (Github)",
+    "section": "Create a Quarto Document",
+    "text": "Create a Quarto Document"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-7",
+    "href": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-7",
+    "title": "Quarto & Version control (Github)",
+    "section": "Create a Quarto Document",
+    "text": "Create a Quarto Document"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-8",
+    "href": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-8",
+    "title": "Quarto & Version control (Github)",
+    "section": "Create a Quarto Document",
+    "text": "Create a Quarto Document"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-9",
+    "href": "slides/week-06/06-Uncertainty.html#create-a-quarto-document-9",
+    "title": "Quarto & Version control (Github)",
+    "section": "Create a Quarto Document",
+    "text": "Create a Quarto Document"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#yaml-header-1",
+    "href": "slides/week-06/06-Uncertainty.html#yaml-header-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "YAML header",
+    "text": "YAML header\n\n---\ntitle: \"Explore Gapminder Data\"\nauthor: \"David Schweizer\"\nformat: \n  html: default\neditor: visual\n---"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#code-chunks---data-1",
+    "href": "slides/week-06/06-Uncertainty.html#code-chunks---data-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Code chunks - Data",
+    "text": "Code chunks - Data\nWe make use of the Gapminder data.\n\n# #| label: load-packages-and-data\n# #| include: false\n\nlibrary(tidyverse)\nlibrary(gapminder)\n\ngapminder &lt;- gapminder"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#code-chunks---wrangle-1",
+    "href": "slides/week-06/06-Uncertainty.html#code-chunks---wrangle-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Code chunks - Wrangle",
+    "text": "Code chunks - Wrangle\n\n# #| label: wrangle-data\n# #| echo: true\n# #| results: hide\n\ngapminder_2007_europe &lt;- gapminder %&gt;% \n  filter(year == 2007 & continent == \"Europe\") %&gt;% \n  select(-c(year,continent,pop))\n\nhead(gapminder_2007_europe, n = 5)"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#code-chunks---visualize-1",
+    "href": "slides/week-06/06-Uncertainty.html#code-chunks---visualize-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Code chunks - Visualize",
+    "text": "Code chunks - Visualize\n\n# #| label: visualize-data\n# #| echo: false\n# #| message: false\n# #| fig-cap: \"GDP per capita and life expectancy in Europe in 2007\"\n\n\nGDP per capita and life expectancy in Europe in 2007"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#output-1",
+    "href": "slides/week-06/06-Uncertainty.html#output-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Output",
+    "text": "Output"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#code-chunk-options-1",
+    "href": "slides/week-06/06-Uncertainty.html#code-chunk-options-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Code chunk options",
+    "text": "Code chunk options"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#render-to-different-formats-1",
+    "href": "slides/week-06/06-Uncertainty.html#render-to-different-formats-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Render to different formats",
+    "text": "Render to different formats\nQuarto offers many output formats. You can find a complete overview here.\nInteresting for us so far:\n\nHTML\nPDF\nWord"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#adjust-the-yaml-header-1",
+    "href": "slides/week-06/06-Uncertainty.html#adjust-the-yaml-header-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Adjust the YAML header",
+    "text": "Adjust the YAML header\n\nHTMLPDFWord\n\n\n\n---\ntitle: \"Explore Gapminder Data\"\nauthor: \"David Schweizer\"\nformat: \n  html: default\n\neditor: visual\n---\n\n\n\n\n---\ntitle: \"Explore Gapminder Data\"\nauthor: \"David Schweizer\"\nformat: \n  pdf: default\n\neditor: visual\n---\n\n\n\n\n---\ntitle: \"Explore Gapminder Data\"\nauthor: \"David Schweizer\"\nformat: \n  docx: default\n\neditor: visual\n---"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#next-steps-1",
+    "href": "slides/week-06/06-Uncertainty.html#next-steps-1",
+    "title": "Quarto & Version control (Github)",
+    "section": "Next steps",
+    "text": "Next steps\nWe have covered the basics. Now, it is your turn to practice and explore Quarto:\n\nGet Started: Quarto\nWriting a reproducible paper with RStudio and Quarto\nGallery: Quarto\nR for Data Science"
+  },
+  {
+    "objectID": "slides/week-06/06-Uncertainty.html#ess-task",
+    "href": "slides/week-06/06-Uncertainty.html#ess-task",
+    "title": "Quarto",
+    "section": "ESS Task",
+    "text": "ESS Task\n\nGet the German data from ESS wave 5 onwards here.\nNext, identify the “trust” variables, for example “trust in country’s parliament”, “trust in European parliament”. Use the Search function or have a look at the questionnaires.\nThe goal is to generate the mean of those trust variables at the regional level! Hint: There is a region variable in the ESS data!\nChoose an appropriate way to plot these mean values.\nCan you extend the analysis to other countries?\n\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
   }
 ]

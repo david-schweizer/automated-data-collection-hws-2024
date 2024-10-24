@@ -1,13 +1,13 @@
 ---
 title: "Web scraping basics"
-subtitle: "Week 11"
+subtitle: "Week 09"
 description: ""
 author: ""
-date: "Apr 23, 2024"
+date: "Oct 31, 2024"
 listing:
   - id: slides
     contents:
-      - ../slides/week-09/*.qmd
+      - ../slides/week-07/*.qmd
     type: table
     fields: [title, subtitle, date]
     #date-format: "ddd, MMM DD"
@@ -35,6 +35,10 @@ listing:
 tbl-colwidths: [10,50,40]
 ---
 
+# To Do's before our session
+
+Do you now have already a website in mind that you might want to scrape? Think about possible websites and let me know via ILIAS or via e-mail!
+
 # Seminar slides
 
 ::: {#slides}
@@ -43,7 +47,3 @@ tbl-colwidths: [10,50,40]
 # Materials
 
 There are no extra materials for this week.
-
-# To Do's before our session
-
-Read [Chapter 24.1 - 24.5 in R for Data Science](https://r4ds.hadley.nz/webscraping#introduction). Do you have already a website in mind that you might want to scrape? Think about possible websites and let me know on Slack or via e-mail!
