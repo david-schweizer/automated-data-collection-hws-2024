@@ -366,7 +366,7 @@ Check the protocols of a newspaper such as ZEIT ONLINE (www.zeit.de) or the New 
     -   using the `robotstxt` function
     -   are there any ethical issues?
 
-## Ethicas: Speed, Purpose, and Storage
+## Ethics: Speed, Purpose, and Storage
 
 -   **Speed:** repeated, automatic web scraping in very short-time intervals can lead to overloading a website's server
 
