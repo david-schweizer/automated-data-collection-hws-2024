@@ -28,7 +28,7 @@
     "href": "material.html",
     "title": "Schedule, slides & materials",
     "section": "",
-    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto\n\n\nOctober 24, 2024\n\n\n\n\nWeek 09\n\n\nWeb scraping basics\n\n\nOctober 31, 2024\n\n\n\n\n\nNo matching items",
+    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto\n\n\nOctober 24, 2024\n\n\n\n\nWeek 09\n\n\nWeb scraping basics\n\n\nOctober 31, 2024\n\n\n\n\nWeek 10\n\n\nWeb scraping static\n\n\nNovember 07, 2024\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule, slides & materials"
     ]
@@ -235,14 +235,14 @@
     "href": "weeks/week-09.html",
     "title": "Web scraping basics",
     "section": "",
-    "text": "To Do’s before our session\nDo you now have already a website in mind that you might want to scrape? Think about possible websites and let me know via ILIAS or via e-mail!\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nWeb scraping basics\n\n\nWeek 9\n\n\nOct 31, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nThere are no extra materials for this week."
+    "text": "To Do’s before our session\nDo you now have already a website in mind that you might want to scrape? Think about possible websites and let me know via ILIAS or via e-mail!\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nWeb scraping basics\n\n\nWeek 09\n\n\nOct 31, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nThere are no extra materials for this week."
   },
   {
     "objectID": "weeks/week-10.html",
     "href": "weeks/week-10.html",
     "title": "Web scraping static",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nWeb scraping static\n\n\nWeek 12\n\n\nApr 30, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find a R script with examples how to extract tables from Wikipedia sites on the world population and locations of UN organizations here on ILIAS.\n\n\nTo Do’s before our session\nRead Chapter 24.6 in R for Data Science. Do you have already a website in mind that you might want to scrape? Think about possible websites and let me know on Slack or via e-mail!"
+    "text": "To Do’s before our session\nRead [Chapter 24 “Webscraping” in R for Data Science](https://r4ds.hadley.nz/webscraping. This helps to review our learnings from last session and prepares you for today’s session on static webscraping.\nHow can you apply these new skills to your ideas for the data project?\nBy the way, the “book” R for Data Science which is available online is built with Quarto!\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nWeb scraping static\n\n\nWeek 10\n\n\nNov 7, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA."
   },
   {
     "objectID": "weeks/week-11.html",
@@ -6593,14 +6593,14 @@
     "href": "slides/week-09/09-Annotations.html#robotstxt-package---robotstxt-function-1",
     "title": "Web scraping basics",
     "section": "robotstxt Package - robotstxt function",
-    "text": "robotstxt Package - robotstxt function\nLet’s have a look at our university:\n\nrobotstxt(domain = \"https://www.uni-mannheim.de/\")\n\n$domain\n[1] \"https://www.uni-mannheim.de/\"\n\n$text\n[robots.txt]\n--------------------------------------\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: *\nDisallow:\n\nSitemap: https://www.uni-mannheim.de/xml-sitemap\n\n\n\n\n\n$robexclobj\n&lt;Robots Exclusion Protocol Object&gt;\n$bots\n[1] \"GPTBot\" \"*\"     \n\n$comments\n[1] line    comment\n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$permissions\n     field useragent value\n1 Disallow    GPTBot     /\n2 Disallow         *      \n\n$crawl_delay\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$host\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$sitemap\n    field useragent                                   value\n1 Sitemap         * https://www.uni-mannheim.de/xml-sitemap\n\n$other\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$check\nfunction (paths = \"/\", bot = \"*\") \n{\n    spiderbar::can_fetch(obj = self$robexclobj, path = paths, \n        user_agent = bot)\n}\n&lt;bytecode: 0x000001107a907f68&gt;\n&lt;environment: 0x000001107a9072b8&gt;\n\nattr(,\"class\")\n[1] \"robotstxt\""
+    "text": "robotstxt Package - robotstxt function\nLet’s have a look at our university:\n\nrobotstxt(domain = \"https://www.uni-mannheim.de/\")\n\n$domain\n[1] \"https://www.uni-mannheim.de/\"\n\n$text\n[robots.txt]\n--------------------------------------\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: ImagesiftBot \nDisallow: /\n\nUser-agent: *\nDisallow:\nDisallow: /media/Universitaet/Videos/Typo3_Schulung\n\nSitemap: https://www.uni-mannheim.de/xml-sitemap\n\n\n\n\n\n$robexclobj\n&lt;Robots Exclusion Protocol Object&gt;\n$bots\n[1] \"GPTBot\"       \"ImagesiftBot\" \"*\"           \n\n$comments\n[1] line    comment\n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$permissions\n     field    useragent                                     value\n1 Disallow       GPTBot                                         /\n2 Disallow ImagesiftBot                                         /\n3 Disallow            *                                          \n4 Disallow            * /media/Universitaet/Videos/Typo3_Schulung\n\n$crawl_delay\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$host\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$sitemap\n    field useragent                                   value\n1 Sitemap         * https://www.uni-mannheim.de/xml-sitemap\n\n$other\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$check\nfunction (paths = \"/\", bot = \"*\") \n{\n    spiderbar::can_fetch(obj = self$robexclobj, path = paths, \n        user_agent = bot)\n}\n&lt;bytecode: 0x000001ec448b6858&gt;\n&lt;environment: 0x000001ec448a9b60&gt;\n\nattr(,\"class\")\n[1] \"robotstxt\""
   },
   {
     "objectID": "slides/week-09/09-Annotations.html#robotstxt-package---robotstxt-function-2",
     "href": "slides/week-09/09-Annotations.html#robotstxt-package---robotstxt-function-2",
     "title": "Web scraping basics",
     "section": "robotstxt Package - robotstxt function",
-    "text": "robotstxt Package - robotstxt function\nChecking the list of permissions (add $permissions):\n\nrobotstxt(domain = \"https://www.uni-mannheim.de/\")$permissions\n\n     field useragent value\n1 Disallow    GPTBot     /\n2 Disallow         *"
+    "text": "robotstxt Package - robotstxt function\nChecking the list of permissions (add $permissions):\n\nrobotstxt(domain = \"https://www.uni-mannheim.de/\")$permissions\n\n     field    useragent                                     value\n1 Disallow       GPTBot                                         /\n2 Disallow ImagesiftBot                                         /\n3 Disallow            *                                          \n4 Disallow            * /media/Universitaet/Videos/Typo3_Schulung"
   },
   {
     "objectID": "slides/week-09/09-Annotations.html#robotstxt-package---paths_allowed-function-1",
@@ -6796,7 +6796,7 @@
     "href": "slides/week-09/09-Annotations.html#exercise-4",
     "title": "Web scraping basics",
     "section": "Exercise 4",
-    "text": "Exercise 4\n\nProvide some css to your HTML document created before\n\nuse internal or external style (not inline)\ne.g., increase font size\nchange color\nfor more ideas: www.w3schools.com/css\n\n\n\n\nAutomated Data Collection | Spring 2024 | University of Mannheim"
+    "text": "Exercise 4\n\nProvide some css to your HTML document created before\n\nuse internal or external style (not inline)\ne.g., increase font size\nchange color\nfor more ideas: www.w3schools.com/css\n\n\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
   },
   {
     "objectID": "slides/week-09/09-Annotations.html#robotstxt-package---paths_allowed-function",

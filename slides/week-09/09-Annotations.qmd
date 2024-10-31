@@ -1,15 +1,15 @@
 ---
 title: "Web scraping basics"
-subtitle: "Week 11"
+subtitle: "Week 09"
 author: "David Schweizer"
-date: "April 23, 2024"
+date: "October 31, 2024"
 date-format: long
 institute: "University of Mannheim"
 format: 
   revealjs:
     theme: simple
     slide-number: c/t #< collapsed/total
-    footer: "Automated Data Collection | Spring 2024 | University of Mannheim"
+    footer: "Automated Data Collection with R | Fall 2024 | University of Mannheim"
 editor: visual
 ---
 
@@ -833,6 +833,7 @@ CSS syntax consists of a declaration, with one or more properties and values
 :::
 
 ## Examples
+
 ```         
 p {font-size:14px;}
 h1 h2 {color:blue;}

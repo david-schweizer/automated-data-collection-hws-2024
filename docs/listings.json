@@ -10,7 +10,8 @@
       "/weeks/week-06.html",
       "/weeks/week-07.html",
       "/weeks/week-08.html",
-      "/weeks/week-09.html"
+      "/weeks/week-09.html",
+      "/weeks/week-10.html"
     ]
   },
   {
@@ -62,7 +63,7 @@
   {
     "listing": "/weeks/week-09.html",
     "items": [
-      "/slides/week-07/07-Relationships.html"
+      "/slides/week-09/09-Annotations.html"
     ]
   },
   {
