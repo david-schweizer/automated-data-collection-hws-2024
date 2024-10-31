@@ -6593,7 +6593,7 @@
     "href": "slides/week-09/09-Annotations.html#robotstxt-package---robotstxt-function-1",
     "title": "Web scraping basics",
     "section": "robotstxt Package - robotstxt function",
-    "text": "robotstxt Package - robotstxt function\nLet’s have a look at our university:\n\nrobotstxt(domain = \"https://www.uni-mannheim.de/\")\n\n$domain\n[1] \"https://www.uni-mannheim.de/\"\n\n$text\n[robots.txt]\n--------------------------------------\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: ImagesiftBot \nDisallow: /\n\nUser-agent: *\nDisallow:\nDisallow: /media/Universitaet/Videos/Typo3_Schulung\n\nSitemap: https://www.uni-mannheim.de/xml-sitemap\n\n\n\n\n\n$robexclobj\n&lt;Robots Exclusion Protocol Object&gt;\n$bots\n[1] \"GPTBot\"       \"ImagesiftBot\" \"*\"           \n\n$comments\n[1] line    comment\n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$permissions\n     field    useragent                                     value\n1 Disallow       GPTBot                                         /\n2 Disallow ImagesiftBot                                         /\n3 Disallow            *                                          \n4 Disallow            * /media/Universitaet/Videos/Typo3_Schulung\n\n$crawl_delay\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$host\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$sitemap\n    field useragent                                   value\n1 Sitemap         * https://www.uni-mannheim.de/xml-sitemap\n\n$other\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$check\nfunction (paths = \"/\", bot = \"*\") \n{\n    spiderbar::can_fetch(obj = self$robexclobj, path = paths, \n        user_agent = bot)\n}\n&lt;bytecode: 0x000001ec448b6858&gt;\n&lt;environment: 0x000001ec448a9b60&gt;\n\nattr(,\"class\")\n[1] \"robotstxt\""
+    "text": "robotstxt Package - robotstxt function\nLet’s have a look at our university:\n\nrobotstxt(domain = \"https://www.uni-mannheim.de/\")\n\n$domain\n[1] \"https://www.uni-mannheim.de/\"\n\n$text\n[robots.txt]\n--------------------------------------\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: ImagesiftBot \nDisallow: /\n\nUser-agent: *\nDisallow:\nDisallow: /media/Universitaet/Videos/Typo3_Schulung\n\nSitemap: https://www.uni-mannheim.de/xml-sitemap\n\n\n\n\n\n$robexclobj\n&lt;Robots Exclusion Protocol Object&gt;\n$bots\n[1] \"GPTBot\"       \"ImagesiftBot\" \"*\"           \n\n$comments\n[1] line    comment\n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$permissions\n     field    useragent                                     value\n1 Disallow       GPTBot                                         /\n2 Disallow ImagesiftBot                                         /\n3 Disallow            *                                          \n4 Disallow            * /media/Universitaet/Videos/Typo3_Schulung\n\n$crawl_delay\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$host\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$sitemap\n    field useragent                                   value\n1 Sitemap         * https://www.uni-mannheim.de/xml-sitemap\n\n$other\n[1] field     useragent value    \n&lt;0 Zeilen&gt; (oder row.names mit Länge 0)\n\n$check\nfunction (paths = \"/\", bot = \"*\") \n{\n    spiderbar::can_fetch(obj = self$robexclobj, path = paths, \n        user_agent = bot)\n}\n&lt;bytecode: 0x000001d205fa3e70&gt;\n&lt;environment: 0x000001d205fa32d8&gt;\n\nattr(,\"class\")\n[1] \"robotstxt\""
   },
   {
     "objectID": "slides/week-09/09-Annotations.html#robotstxt-package---robotstxt-function-2",
@@ -6614,7 +6614,7 @@
     "href": "slides/week-09/09-Annotations.html#exercise-1",
     "title": "Web scraping basics",
     "section": "Exercise 1",
-    "text": "Exercise 1\nCheck the protocols of a newspaper such as ZEIT ONLINE (www.zeit.de) or the New York Times (www.nytimes.com)\n\nvia your browser, with the robotstxt function in R, and compare the two options\nCheck a specific path with the paths_allowed function\n\nso, that it returns FALSE\nhint: use the information from the first task and look at the list of permissions\n\nCheck the protocols of a website which might be interesting for you to scrape\n\nusing the robotstxt function\nare there any ethical issues?"
+    "text": "Exercise 1\nCheck the protocols of a newspaper such as ZEIT ONLINE (www.zeit.de) or the New York Times (www.nytimes.com)\n\nvia your browser, with the robotstxt function in R, and compare the two options\nCheck a specific path with the paths_allowed function\n\nso, that it returns FALSE. Hint: use the information from the first task and look at the list of permissions\n\nCheck the protocols of a website which might be interesting for you to scrape\n\nusing the robotstxt function\nare there any ethical issues?"
   },
   {
     "objectID": "slides/week-09/09-Annotations.html#ethical-issues-speed-purpose-and-storage",
@@ -6810,7 +6810,7 @@
     "href": "slides/week-09/09-Annotations.html#robotstxt-package---paths_allowed",
     "title": "Web scraping basics",
     "section": "robotstxt Package - paths_allowed",
-    "text": "robotstxt Package - paths_allowed\nLet’s check different paths:\n\npaths_allowed(\"https://www.uni-mannheim.de/\")\n\n[1] TRUE\n\n\n\npaths_allowed(\"https://www.uni-mannheim.de/\",\n              paths = c(\"/studienangebot/\", \"/ausschreibungen/\"))\n\n[1] TRUE TRUE\n\n\n\npaths_allowed(\"https://www.uni-mannheim.de/\",\n              paths = c(\"/studienangebot/\", \"/ausschreibungen/\"),\n              bot = c(\"googlebot\", \"bing\"))\n\n[1] TRUE TRUE"
+    "text": "robotstxt Package - paths_allowed\n\nInfoCode\n\n\nWe can use the paths_allowed function in order to check if we are allowed to scrape specific paths:\n\nprovide the base URL of a website within the domain argument as a string\nBoth path and bot are important arguments\n\nattention to default values!\n\nOutput is either TRUE: We are allowed to scrape or FALSE: We are not allowed to scrape.\n\n\n\n\nlibrary(robotstxt)\n\npaths_allowed(\n  domain = \"auto\",\n  paths = \"/\",\n  bot = \"*\",\n  ...\n)"
   },
   {
     "objectID": "slides/week-09/09-Annotations.html#ethicas-speed-purpose-and-storage",
@@ -8211,5 +8211,12 @@
     "title": "Quarto",
     "section": "ESS Task",
     "text": "ESS Task\n\nGet the German data from ESS wave 5 onwards here.\nNext, identify the “trust” variables, for example “trust in country’s parliament”, “trust in European parliament”. Use the Search function or have a look at the questionnaires.\nThe goal is to generate the mean of those trust variables at the regional level! Hint: There is a region variable in the ESS data!\nChoose an appropriate way to plot these mean values.\nCan you extend the analysis to other countries?\n\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
+  },
+  {
+    "objectID": "slides/week-09/09-Annotations.html#robotstxt-package---paths_allowed-1",
+    "href": "slides/week-09/09-Annotations.html#robotstxt-package---paths_allowed-1",
+    "title": "Web scraping basics",
+    "section": "robotstxt Package - paths_allowed",
+    "text": "robotstxt Package - paths_allowed\nLet’s check different paths:\n\npaths_allowed(\"https://www.uni-mannheim.de/\")\n\n[1] TRUE\n\n\n\npaths_allowed(\"https://www.uni-mannheim.de/\",\n              paths = c(\"/studienangebot/\", \"/ausschreibungen/\"))\n\n[1] TRUE TRUE\n\n\n\npaths_allowed(\"https://www.uni-mannheim.de/\",\n              paths = c(\"/studienangebot/\", \"/ausschreibungen/\"),\n              bot = c(\"googlebot\", \"bing\"))\n\n[1] TRUE TRUE"
   }
 ]

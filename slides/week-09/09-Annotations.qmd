@@ -303,7 +303,7 @@ Checking the list of permissions (add \$permissions):
 robotstxt(domain = "https://www.uni-mannheim.de/")$permissions
 ```
 
-## robotstxt Package - paths_allowed function
+## robotstxt Package - paths_allowed
 
 ::: panel-tabset
 ## Info
@@ -359,8 +359,7 @@ Check the protocols of a newspaper such as ZEIT ONLINE (www.zeit.de) or the New 
 
 -   Check a specific path with the `paths_allowed` function
 
-    -   so, that it returns *FALSE*
-    -   hint: use the information from the first task and look at the list of permissions
+    -   so, that it returns *FALSE.* Hint: use the information from the first task and look at the list of permissions
 
 -   Check the protocols of a website which might be interesting for you to scrape
 
