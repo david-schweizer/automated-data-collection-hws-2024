@@ -384,4 +384,4 @@ You can find the code on ILIAS or a link on the website.
 
 -   Try to scrape the election data at the district level in Baden-Württemberg. This follows the same logic as in the example.
 
--   Try to scrape press releases from the AfD <https://www.afd.de/presse/>. Things to consider: How can you crawl over all press releases? How can you actually access the separate press releases? How can you display all press releases
+-   Try to scrape https://www.reddit.com/r/politics/. How can you get the comments for the posts?

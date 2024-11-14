@@ -7321,7 +7321,7 @@
     "href": "slides/week-11/11-Time.html#task-for-today-advanced",
     "title": "Web scraping dynamic",
     "section": "Task for today: Advanced",
-    "text": "Task for today: Advanced\n\nTry to scrape the election data at the district level in Baden-Württemberg. This follows the same logic as in the example.\nTry to scrape press releases from the AfD https://www.afd.de/presse/. Things to consider: How can you crawl over all press releases? How can you actually access the separate press releases? How can you display all press releases\n\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
+    "text": "Task for today: Advanced\n\nTry to scrape the election data at the district level in Baden-Württemberg. This follows the same logic as in the example.\nTry to scrape https://www.reddit.com/r/politics/. How can you get the comments for the posts?\n\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
   },
   {
     "objectID": "slides/week-12/12-Space.html#dashboards",
