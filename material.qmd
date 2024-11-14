@@ -14,6 +14,7 @@ listing:
       - weeks/week-09.qmd
       - weeks/week-10.qmd
       - weeks/week-11.qmd
+      - weeks/week-12.qmd
     type: table
     fields: [subtitle, title, date]
     field-display-names:

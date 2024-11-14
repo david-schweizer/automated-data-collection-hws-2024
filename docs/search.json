@@ -28,7 +28,7 @@
     "href": "material.html",
     "title": "Schedule, slides & materials",
     "section": "",
-    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto\n\n\nOctober 24, 2024\n\n\n\n\nWeek 09\n\n\nWeb scraping basics\n\n\nOctober 31, 2024\n\n\n\n\nWeek 10\n\n\nWeb scraping static\n\n\nNovember 07, 2024\n\n\n\n\nWeek 11\n\n\nWeb scraping dynamic\n\n\nNovember 14, 2024\n\n\n\n\n\nNo matching items",
+    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto\n\n\nOctober 24, 2024\n\n\n\n\nWeek 09\n\n\nWeb scraping basics\n\n\nOctober 31, 2024\n\n\n\n\nWeek 10\n\n\nWeb scraping static\n\n\nNovember 07, 2024\n\n\n\n\nWeek 11\n\n\nWeb scraping dynamic\n\n\nNovember 14, 2024\n\n\n\n\nWeek 12\n\n\nInteractive I: Create your first Shiny app\n\n\nNovember 21, 2024\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule, slides & materials"
     ]
@@ -249,14 +249,14 @@
     "href": "weeks/week-11.html",
     "title": "Web scraping dynamic",
     "section": "",
-    "text": "To Do’s before our session\nThink about possible dynamic websites that you want to scrape. Let me know on Slack or via e-mail!\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nWeb scraping dynamic\n\n\nWeek 11\n\n\nNov 14, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA."
+    "text": "To Do’s before our session\nThink about possible dynamic websites that you want to scrape. Let me know on Slack or via e-mail!\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nWeb scraping dynamic\n\n\nWeek 11\n\n\nNov 14, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find an example for the Bundeswahlleiterin and the 2021 elections here on ILIAS."
   },
   {
     "objectID": "weeks/week-12.html",
     "href": "weeks/week-12.html",
     "title": "Interactive I: Create your first Shiny app",
     "section": "",
-    "text": "Seminar slides\n\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nInteractive I: Create your first Shiny app\n\n\nWeek 14\n\n\nMay 14, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can find the R scripts and the necessary data to run them for today’s session here as a zip folder. Open the the R project to ensure that the relative file paths work.\n\n\nTo Do’s before our session\nPlease have a look at:\n\nChapter 1, Your first Shiny app in Wickham, Mastering Shiny. Link to free online version.\nR Shiny, Get Started: Welcome to Shiny."
+    "text": "To Do’s before our session\nPlease have a look at:\n\nChapter 1, Your first Shiny app in Wickham, Mastering Shiny. Link to free online version.\nR Shiny, Get Started: Welcome to Shiny.\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nInteractive I: Create your first Shiny app\n\n\nWeek 12\n\n\nNov 21, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA."
   },
   {
     "objectID": "weeks/week-13.html",
@@ -7321,7 +7321,7 @@
     "href": "slides/week-11/11-Time.html#task-for-today-advanced",
     "title": "Web scraping dynamic",
     "section": "Task for today: Advanced",
-    "text": "Task for today: Advanced\n\nTry to scrape the election data at the district level in Baden-Württemberg. This follows the same logic as in the example.\nTry to scrape press releases from the AfD https://www.afd.de/presse/. Things to consider: How can you crawl over all press releases? How can you actually access the separate press releases? How can you display all press releases\n\n\n\nAutomated Data Collection | Spring 2024 | University of Mannheim"
+    "text": "Task for today: Advanced\n\nTry to scrape the election data at the district level in Baden-Württemberg. This follows the same logic as in the example.\nTry to scrape press releases from the AfD https://www.afd.de/presse/. Things to consider: How can you crawl over all press releases? How can you actually access the separate press releases? How can you display all press releases\n\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
   },
   {
     "objectID": "slides/week-12/12-Space.html#dashboards",
