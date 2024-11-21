@@ -28,7 +28,7 @@
     "href": "material.html",
     "title": "Schedule, slides & materials",
     "section": "",
-    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto\n\n\nOctober 24, 2024\n\n\n\n\nWeek 09\n\n\nWeb scraping basics\n\n\nOctober 31, 2024\n\n\n\n\nWeek 10\n\n\nWeb scraping static\n\n\nNovember 07, 2024\n\n\n\n\nWeek 11\n\n\nWeb scraping dynamic\n\n\nNovember 14, 2024\n\n\n\n\nWeek 12\n\n\nInteractive I: Create your first Shiny app\n\n\nNovember 21, 2024\n\n\n\n\n\nNo matching items",
+    "text": "You can find all course materials below. This includes slides, code, links to readings, etc.\nJust click on the topic of the respective week. The materials will be updated during the semester a week in advance.\n\n\n\n\n\nWeek\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWeek 01\n\n\nIntro Session\n\n\nSeptember 05, 2024\n\n\n\n\nWeek 02\n\n\nIntro to R\n\n\nSeptember 12, 2024\n\n\n\n\nWeek 03\n\n\nTidyverse I: Import, tidy, and transform\n\n\nSeptember 19, 2024\n\n\n\n\nWeek 04\n\n\nNo Session\n\n\nSeptember 26, 2024\n\n\n\n\nWeek 05\n\n\nNo Session\n\n\nOctober 03, 2024\n\n\n\n\nWeek 06\n\n\nTidyverse II: Import, tidy, and transform\n\n\nOctober 10, 2024\n\n\n\n\nWeek 07\n\n\nggplot: Visualize\n\n\nOctober 17, 2024\n\n\n\n\nWeek 08\n\n\nQuarto\n\n\nOctober 24, 2024\n\n\n\n\nWeek 09\n\n\nWeb scraping basics\n\n\nOctober 31, 2024\n\n\n\n\nWeek 10\n\n\nWeb scraping static\n\n\nNovember 07, 2024\n\n\n\n\nWeek 11\n\n\nWeb scraping dynamic\n\n\nNovember 14, 2024\n\n\n\n\nWeek 12\n\n\nInteractive I: Create your first Shiny app\n\n\nNovember 21, 2024\n\n\n\n\nWeek 13\n\n\nInteractive II: Making pretty (and more interactive) Shiny apps\n\n\nNovember 28, 2024\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Schedule, slides & materials"
     ]
@@ -256,14 +256,14 @@
     "href": "weeks/week-12.html",
     "title": "Interactive I: Create your first Shiny app",
     "section": "",
-    "text": "To Do’s before our session\nPlease have a look at:\n\nChapter 1, Your first Shiny app in Wickham, Mastering Shiny. Link to free online version.\nR Shiny, Get Started: Welcome to Shiny.\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nInteractive I: Create your first Shiny app\n\n\nWeek 12\n\n\nNov 21, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nTBA."
+    "text": "To Do’s before our session\nPlease have a look at:\n\nChapter 1, Your first Shiny app in Wickham, Mastering Shiny. Link to free online version.\nR Shiny, Get Started: Welcome to Shiny.\n\n\n\nSeminar slides\n\n\n\n\n\nTopic\n\n\nSession\n\n\nDate\n\n\n\n\n\n\nInteractive I: Create your first Shiny app\n\n\nWeek 12\n\n\nNov 21, 2024\n\n\n\n\n\nNo matching items\n\n\n\n\nMaterials\nYou can download the materials for today’s session here."
   },
   {
     "objectID": "weeks/week-13.html",
     "href": "weeks/week-13.html",
     "title": "Interactive II: Making pretty (and more interactive) Shiny apps",
     "section": "",
-    "text": "Materials\nFor today’s session, there are no slides. We will start directly with reviewing the exemplary code: Again, the goal is to visualize the relationship between unemployment rate and the vote share of the main parties at the 2017 German federal elections at the district level. Add on for today: We want to be able to click on specific observations in the scatterplot, let the Shiny app display the name of the election district and produce a barplot displaying the vote shares of all parties in this specific election district.\nAs a next step, we will explore different theming options.\nYou can download the script here.\nYou can find lots of information on theming here and here. You can find more on interactions with plots here. If you want to dive deeper into the topic, you might want to check out the ggiraph package!\nYour turn:\n\nTry to add a second page replacing unemployment rate with another variable (e.g., GDP per capita).\nTry different interactions than a single click.\nCan you apply the code to different (your own) data?\n\nThere will be no mandatory assignment. However, I want to encourage you to work on these three tasks (if you could not finish it during the seminar) and I am happy to review your code.\n\n\nTo Do’s before our session\n\nHave a look at the bslib package and its functionalities. What would you like to implement for your own project?\nOnly two more weeks before the semester ends: Start thinking about what kind of data you would like to scrape! Can you combine it with other data sets?"
+    "text": "To Do’s before our session\n\nHave a look at the bslib package and its functionalities. What would you like to implement for your own project?\nOnly two more weeks before the semester ends: Start thinking about what kind of data you would like to scrape! Can you combine it with other data sets?"
   },
   {
     "objectID": "weeks/week-14.html",
@@ -7356,7 +7356,7 @@
     "href": "slides/week-12/12-Space.html#how-to-assemble-these-elements",
     "title": "Interactive I: Create your first Shiny app",
     "section": "How to assemble these elements",
-    "text": "How to assemble these elements\n\nset upuiservershinyApp()Output\n\n\n\nlibrary(shiny)\nlibrary(bslib)\nlibrary(tidyverse)\n\ndata &lt;- readRDS(\"data/constituency_shapes_vote.RDS\")\n\n\n\n\nui &lt;- page_sidebar(\n      title = \"2017 German election data\",\n      sidebar = sidebar(\n        selectInput(\n          inputId = \"parties\", \n          label = \"Choose a party\", \n          choices = c(\"AfD\", \"CDU\", \"CSU\", \n                      \"Left\" = \"DIE LINKE\", \n                      \"FDP\", \n                      \"Greens\" = \"GRÜNE\", \n                      \"SPD\"), \n          selected = \"AfD\"\n        )\n      ),\n    \n    plotOutput(\"histogram\")\n)\n\n\n\n\nserver &lt;- function(input, output) {\n  \n  output$histogram &lt;- renderPlot({\n    \n    data %&gt;% \n      filter(party == input$parties) %&gt;%\n      ggplot() +\n      geom_histogram(aes(x = vote_share),\n                     binwidth = 2.5,\n                     boundary = 0) +\n      scale_x_continuous(labels = scales::percent_format(scale = 1), \n                         limits = c(0, 80)) +\n      theme_minimal() +\n      labs(y = \"Count\",\n           x = \"Vote share\")\n  })\n}\n\n\n\n\nshinyApp(ui = ui, server = server)"
+    "text": "How to assemble these elements\n\nset upuiservershinyApp()Output\n\n\n\nlibrary(shiny)\nlibrary(bslib)\nlibrary(tidyverse)\nlibrary(gapminder)\n\ndata &lt;- gapminder\n\n\n\n\nui &lt;- page_sidebar(\n  title = \"Life expectancy around the world\",\n  sidebar = sidebar(\n    selectInput(\n      inputId = \"continent\", \n      label = \"Choose a continent\", \n      choices = c(\"Europe\",\n                  \"Africa\",\n                  \"Americas\",\n                  \"Oceania\"), \n      selected = \"Europe\"\n    )\n  ),\n  \n  plotOutput(\"histogram\")\n)\n\n\n\n\nserver &lt;- function(input, output) {\n  \n  output$histogram &lt;- renderPlot({\n    \n    data %&gt;% \n      filter(continent == input$continent) %&gt;%\n      ggplot() +\n      geom_histogram(aes(x = lifeExp),\n                     binwidth = 5,\n                     boundary = 0) +\n      theme_minimal() +\n      labs(y = \"Count\",\n           x = \"Life Expectancy\")\n  })\n}\n\n\n\n\nshinyApp(ui = ui, server = server)"
   },
   {
     "objectID": "slides/week-12/12-Space.html#example---dashboard",
@@ -7419,14 +7419,14 @@
     "href": "slides/week-12/12-Space.html#shiny-apps-in-your-final-project",
     "title": "Interactive I: Create your first Shiny app",
     "section": "Shiny apps in your final project",
-    "text": "Shiny apps in your final project\n\nStatePol Database: &lt;https://statepol.github.io/Database/&gt;"
+    "text": "Shiny apps in your final project\n\n\n\nStatePol Database: &lt;https://statepol.github.io/Database/&gt;"
   },
   {
     "objectID": "slides/week-12/12-Space.html#shiny-apps-can-also-look-like-this",
     "href": "slides/week-12/12-Space.html#shiny-apps-can-also-look-like-this",
     "title": "Interactive I: Create your first Shiny app",
     "section": "Shiny apps can also look like this:",
-    "text": "Shiny apps can also look like this:\n\nnews-r: https://gallery.shinyapps.io/freedom-press-index/#home"
+    "text": "Shiny apps can also look like this:\n\n\n\nnews-r: https://gallery.shinyapps.io/freedom-press-index/#home"
   },
   {
     "objectID": "slides/week-12/12-Space.html#example---dashboard-multiple-pages",
@@ -7447,7 +7447,7 @@
     "href": "slides/week-12/12-Space.html#your-turn",
     "title": "Interactive I: Create your first Shiny app",
     "section": "Your turn!",
-    "text": "Your turn!\n\nTake some time to understand and run the R scripts provided on ILIAS or access the via the links on the course website.\nNow, apply it to different data! Always a simple start: Gapminder.\nAlso: Try out different widgets. For example, a slider. When using a slider, you need a continuous variable!\nIf you have time left, set up a free account at shinyapps.io and try to publish your first Shiny app (dashboard) online.\n\n\n\nAutomated Data Collection | Spring 2024 | University of Mannheim"
+    "text": "Your turn!\n\nTake some time to understand and run the R scripts provided on ILIAS or access the via the links on the course website.\nNow, apply it to different data! Always a simple start: Gapminder.\nAlso: Try out different widgets. For example, a slider. When using a slider, you need a continuous variable!\nIf you have time left, set up a free account at shinyapps.io and try to publish your first Shiny app (dashboard) online.\n\n\n\n\nAutomated Data Collection with R | Fall 2024 | University of Mannheim"
   },
   {
     "objectID": "slides/week-12/12-Space.html#bslib",

@@ -1,0 +1,13 @@
+name: Gapminder
+title: Gapminder
+username: davidschweizer
+account: davidschweizer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13411095
+bundleId: 9396712
+url: https://davidschweizer.shinyapps.io/Gapminder/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|_quarto.yml|2024_hws_session2_exercise.R|2024_hws_session3_exercise.R|2024_hws_session6_exercise.R|2024_hws_session7_exercise.R|assignment_01.docx|assignment_01.pdf|assignment_02.docx|assignment_02.pdf|css/custom.css|css/theme.scss|gapminder_shiny.R|gen_sticker/sticker.R|images/hex_sticker.png|index.qmd|material.qmd|README.md|syllabus.qmd|_extensions|_freeze|_site|docs|slides|weeks
