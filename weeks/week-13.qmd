@@ -35,9 +35,26 @@ date: "Nov 28, 2024"
 tbl-colwidths: [10,50,40]
 ---
 
-
 # To Do's before our session
 
 -   Have a look at the [bslib package](https://rstudio.github.io/bslib/) and its functionalities. What would you like to implement for your own project?
 
 -   Only two more weeks before the semester ends: Start thinking about what kind of data you would like to scrape! Can you combine it with other data sets?
+
+# Material
+
+There are no slides for today. We will directly work with an applied example. You can find the code [here](https://ilias.uni-mannheim.de/goto.php?target=file_1585725_download&client_id=ILIAS). This will produce a shiny app displaying a scatterplot with Gapminder data. We can select continents as input and hover over the data points to get more information.
+
+![](/slides/week-13/shiny_example.jpg)
+
+Now, your task is to add a slider where the user can choose also the year (see below). This includes adjusting both the UI (adding [sliderInput](https://shiny.posit.co/r/getstarted/shiny-basics/lesson3/))and the server side (filtering for the inputID you determine for year)!
+
+![](/slides/week-13/shiny_example_slider.jpg)
+
+**Helpful resources:**
+
+-   <https://shiny.posit.co/r/getstarted/shiny-basics/lesson3/>
+
+-   <https://mastering-shiny.org/index.html>
+
+-   ChatGPT can help, too. But remember to ask also for an explanation of the code!

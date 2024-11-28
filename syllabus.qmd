@@ -123,7 +123,8 @@ will receive the same grade.
 -   Data project proposal presentations at 05.12.2024: Presentation
     should last no longer than ten minutes. Introduce the topic, your
     motivation, and the data source. Outline how you scrape the data.
-    Include a first glimpse at the data.
+    Include a first glimpse at the data. How do you plan to visualize
+    the data?
 
 -   Deadline for the data project**:** December 26, 2024, 23:59.
 
@@ -143,8 +144,6 @@ will receive the same grade.
 
 -   Communication (Visualization(s) via dashboard): Correct? Style?
     Effort?
-
--   Collaboration: Working together via Github
 
 -   Reproducibility: Can the dashboard and all pre-processing steps
     executed on another device without error? (You need to hand in the
@@ -278,7 +277,7 @@ Week 06 - 10.10.2024 - Tidyverse II: Import, tidy, and transform
 
 Week 07 - 17.10.2024 - ggplot: Visualize
 
-Week 08 - 24.10.2024 - Quarto & Version control (Github)
+Week 08 - 24.10.2024 - Quarto
 
 **Block III: Web scraping**
 

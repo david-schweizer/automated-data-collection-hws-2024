@@ -1,23 +1,23 @@
 ---
 title: "Closing Session"
-subtitle: "Week 16"
+subtitle: "Week 14"
 description: ""
 author: ""
-date: "May 28, 2023"
-listing:
-   - id: slides
-     contents:
-       - ../slides/week-14/*.qmd
-     type: table
-     fields: [title, subtitle, date]
-     #date-format: "ddd, MMM DD"
-     field-display-names:
-       title: "Topic"
-       subtitle: "Session"
-       date: "Date"
-     sort: [filename]
-     sort-ui: false
-     filter-ui: false
+date: "Dec 05, 2024"
+# listing:
+#    - id: slides
+#      contents:
+#        - ../slides/week-14/*.qmd
+#      type: table
+#      fields: [title, subtitle, date]
+#      #date-format: "ddd, MMM DD"
+#      field-display-names:
+#        title: "Topic"
+#        subtitle: "Session"
+#        date: "Date"
+#      sort: [filename]
+#      sort-ui: false
+#      filter-ui: false
   # - id: assignments
   #   contents:
   #     - ../hw/w1-*.qmd
@@ -35,15 +35,13 @@ listing:
 tbl-colwidths: [10,50,40]
 ---
 
-# Seminar slides
-
-::: {#slides}
-:::
-
-# Materials
-
-There are no materials for today's session.
 
 # To Do's before our session
 
+- Prepare your presentations!
+
 - Do you have any open questions regarding the material? Please let me know via Slack or e-mail! We can devote some of the time during the session to these questions.
+
+# Today's session
+
+The closing session consists of your presentations for your data project and a short input from my side summarizing the seminar's core contents and a possible outlook for your next steps in your R journey.
