@@ -47,7 +47,7 @@ There are no slides for today. We will directly work with an applied example. Yo
 
 ![](/slides/week-13/shiny_example.jpg)
 
-Now, your task is to add a slider where the user can choose also the year (see below). This includes adjusting both the UI (adding [sliderInput](https://shiny.posit.co/r/getstarted/shiny-basics/lesson3/))and the server side (filtering for the inputID you determine for year)!
+Now, your task is to add a slider where the user can choose also the year (see below). This includes adjusting both the UI (adding [sliderInput](https://shiny.posit.co/r/getstarted/shiny-basics/lesson3/))and the server side (filtering for the inputID you determine for year)! You can find a solution with comments [here](https://ilias.uni-mannheim.de/goto.php?target=file_1585931_download&client_id=ILIAS).
 
 ![](/slides/week-13/shiny_example_slider.jpg)
 
