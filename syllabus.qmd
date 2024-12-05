@@ -9,7 +9,7 @@ editor:
 ## **Course details**
 
 |               |                                                                                              |
-|--------------------------|----------------------------------------------|
+|--------------------------|---------------------------------------------|
 | Seminar:      | Übung - Methoden der Vergleichenden Regierungslehre                                          |
 | Time:         | Thursday, 13:45 – 15:15, September 05 to December 05                                         |
 | Place:        | C -108 Methodenlabor - groß/ Telefonlabor (A 5, 6 Bauteil C)                                 |
@@ -126,7 +126,7 @@ will receive the same grade.
     Include a first glimpse at the data. How do you plan to visualize
     the data?
 
--   Deadline for the data project**:** December 26, 2024, 23:59.
+-   Deadline for the data project**:** January 16, 2025, 20:00.
 
     -   Submission via ILIAS (zip folder: This should include your code
         for the Shiny dashboard, R.data files, any R scripts for

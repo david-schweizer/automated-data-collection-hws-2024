@@ -1,29 +1,31 @@
 ---
 title: "Closing Session"
-subtitle: "Week 16"
+subtitle: "Week 14"
 author: "David Schweizer"
-date: "May 28, 2024"
+date: "Dec 05, 2024"
 date-format: long
 institute: "University of Mannheim"
 format: 
   revealjs:
     theme: simple
     slide-number: c/t #< collapsed/total
-    footer: "Automated Data Collection | Spring 2024 | University of Mannheim"
+    footer: "Automated Data Collection with R | Fall 2024 | University of Mannheim"
 editor: visual
 ---
 
 ## Plan for today
 
--   Recap - Content
+-   Your presentations
+
+-   Short recap - Content
 
 -   Data project
 
 -   Outlook
 
--   Recap - (Your) Feedback
+# Your presentations
 
-## Recap - Content
+## Short recap - Content
 
 ![](workflow.png)
 
@@ -32,6 +34,8 @@ editor: visual
 ## Data project
 
 *In a nutshell: Ask a question you’re curious about, collect relevant data and visualize them with regard to your question.*
+
+**New deadline:** 16.01.2025 20:00.
 
 ## Data project
 
@@ -45,25 +49,19 @@ editor: visual
 
 -   Describe: How could you or other researchers make use of this data for empirical research - What might be possible research questions?
 
-## Data project - My inspiration
-
-[![StatePol Database: https://statepol.github.io/Database](statepol.jpg)](https://statepol.github.io/Database)
-
 ## Data project
 
-Let's have a look at the [syllabus](https://automated-data-collection.netlify.app/syllabus) for details.
+-   Data collection: Correct? “Polite”? Documentation?
 
-AND: I recommend discussing your project with me individually at least once via e-mail or office hours!
+-   Data transformation: Correct? Documentation/Annotation?
 
-## Outlook: What now?
+-   Communication (Visualization(s) via dashboard): Correct? Style? Effort?
 
-Practice and deep dive:
+-   Reproducibility: Can the dashboard and all pre-processing steps executed on another device without error?
 
--   Still access to Datacamp!
+-   *BONUS: Creativity, Critical Thought, Effort*
 
-Examples in social science:
-
--   [MZES Social Data Science Lab](https://www.mzes.uni-mannheim.de/socialsciencedatalab/page/about/)
+## Outlook: What next?
 
 Apply!
 
@@ -71,22 +69,10 @@ Apply!
 
 -   [CorrelAid - Data 4 Good](https://www.correlaid.org/)
 
-## Outlook: What is possible?
+Examples in social science:
 
-[![news-r: https://gallery.shinyapps.io/freedom-press-index/#home](shiny_press.jpg)](https://gallery.shinyapps.io/freedom-press-index/#home)
+-   [MZES Social Data Science Lab](https://www.mzes.uni-mannheim.de/socialsciencedatalab/page/about/)
 
-## Recap - Feedback
+Great resources:
 
--   Organizational
-
--   Structure
-
--   Participation
-
--   Learning
-
-## Your Feedback
-
-1.  "Open round"
-
-2.  Please take some time to fill out the survey by the institute. This is both valuable for me professionally but also for further iterations of this seminar!
+-   [R for Data Science](https://r4ds.hadley.nz/), [Data Visualization: A practical Introduction](https://socviz.co/), [Mastering Shiny](https://mastering-shiny.org/), ...
